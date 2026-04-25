@@ -1,0 +1,106 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "websites/bartonhistory.wikispaces.com/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Some pages were archived as extension-less files (e.g. "Ann+(d.1748)")
+      # because the original Wikispaces URLs had no extension.  GitHub Pages
+      # serves such files as application/octet-stream, so browsers download
+      # them instead of rendering them.  This step:
+      #   1. Copies each extension-less HTML file to <name>.html
+      #   2. Updates the matching href links in all other HTML files
+      - name: Fix extension-less HTML files
+        run: |
+          python3 - <<'PYEOF'
+          import os, shutil, urllib.parse
+
+          site = "websites/bartonhistory.wikispaces.com"
+
+          # Collect extension-less files that contain HTML
+          ext_less = []
+          for fname in os.listdir(site):
+              full = os.path.join(site, fname)
+              if os.path.isfile(full) and "." not in fname:
+                  with open(full, "rb") as f:
+                      head = f.read(128)
+                  if b"DOCTYPE" in head or b"<html" in head:
+                      ext_less.append(fname)
+
+          if not ext_less:
+              print("No extension-less HTML files found.")
+          else:
+              print(f"Found {len(ext_less)} extension-less HTML files")
+
+          # Copy each to <name>.html
+          for fname in ext_less:
+              shutil.copy2(os.path.join(site, fname),
+                           os.path.join(site, fname + ".html"))
+              print(f"  Copied {fname} -> {fname}.html")
+
+          # Collect all HTML files for link rewriting
+          all_html = []
+          for root, _, files in os.walk(site):
+              for f in files:
+                  if f.endswith(".html"):
+                      all_html.append(os.path.join(root, f))
+
+          # Rewrite links: href="./Foo+%28bar%29" -> href="./Foo+%28bar%29.html"
+          for fname in ext_less:
+              encoded = urllib.parse.quote(fname, safe="+")
+              targets = [
+                  (f'href="./{encoded}"',  f'href="./{encoded}.html"'),
+                  (f"href='./{encoded}'",  f"href='./{encoded}.html'"),
+                  (f'href="./{fname}"',    f'href="./{fname}.html"'),
+                  (f"href='./{fname}'",    f"href='./{fname}.html'"),
+              ]
+              for html_path in all_html:
+                  with open(html_path, encoding="utf-8", errors="replace") as fh:
+                      content = fh.read()
+                  updated = content
+                  for old, new in targets:
+                      updated = updated.replace(old, new)
+                  if updated != content:
+                      with open(html_path, "w", encoding="utf-8", errors="replace") as fh:
+                          fh.write(updated)
+                      print(f"  Updated links in {html_path}")
+
+          print("Done.")
+          PYEOF
+
+      - name: Add .nojekyll (prevents Jekyll mangling + and special chars in filenames)
+        run: touch websites/bartonhistory.wikispaces.com/.nojekyll
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: websites/bartonhistory.wikispaces.com
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
