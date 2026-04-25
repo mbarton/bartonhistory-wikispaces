@@ -6,10 +6,15 @@
 set -euo pipefail
 
 TOOL_DIR="/tmp/wayback-machine-downloader"
-TARGET_URL="http://bartonhistory.wikispaces.com/"
+# No trailing slash — the tool checks for '/' after stripping the scheme to
+# decide if a path was given. A trailing slash tricks it into skipping the
+# '/*' wildcard it appends for host-only URLs, so only the homepage is queried.
+TARGET_URL="http://bartonhistory.wikispaces.com/*"
 OUTPUT_DIR="$(pwd)/websites/bartonhistory.wikispaces.com"
-# Snapshot window bracketing the requested May 2015 timestamp.
-FROM_TS=20150101000000
+# Broad window: grab the best available snapshot of each URL up to end-2015.
+# Wikispaces pages were often first crawled months before or after a given date,
+# so a narrow window around May 2015 misses most of the site.
+FROM_TS=20100101000000
 TO_TS=20151231235959
 # Concurrency: keep low to avoid archive.org rate-limiting.
 CONCURRENCY=3
@@ -51,6 +56,7 @@ $WMD \
   --to   "$TO_TS" \
   --rewritten \
   --local \
+  --page-requisites \
   --concurrency "$CONCURRENCY" \
   --retry 5 \
   "$TARGET_URL" \
