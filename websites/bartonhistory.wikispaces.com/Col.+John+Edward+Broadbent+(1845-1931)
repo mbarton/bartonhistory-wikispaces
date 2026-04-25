@@ -1,0 +1,1017 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://bartonhistory.wikispaces.com:80/Col.+John+Edward+Broadbent+%281845-1931%29","20141103121213","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1415016733");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="search" href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/space/opensearch" type="application/opensearchdescription+xml" title="Wikispaces Search (BartonHistory Wiki)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit This Page" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/edit/Col.+John+Edward+Broadbent+%281845-1931%29"/>
+<link rel="alternate" title="BartonHistory - All Changes" href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/xmla?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : Col. John Edward Broadbent (1845-1931) - Discussion" href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/message/xml/Col.+John+Edward+Broadbent+%281845-1931%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : Col. John Edward Broadbent (1845-1931) - Edits" href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/page/xml/Col.+John+Edward+Broadbent+%281845-1931%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="microsummary" href="/page/microsummary/Col.+John+Edward+Broadbent+%281845-1931%29/edits"/>
+<link rel="microsummary" href="/page/microsummary/Col.+John+Edward+Broadbent+%281845-1931%29/messages"/>
+<script type="text/javascript">
+  
+if (typeof ws === 'undefined') ws = {};
+if (typeof ws.context === 'undefined') ws.context = {};
+ws.context = {
+  instance: {
+    id: '1',
+    url: 'wikispaces.com',
+    isMain: true,
+    supportsGoogleDocs: false
+  },
+  user: {
+    id: '',
+    username: '',
+    status: '',
+    locale: 'en',
+    imageUrlPrefix: 'https://web.archive.org/web/20141103121213/http://www.wikispaces.com/i/user_none_',
+    pagesVisited: null,
+  },
+  wiki: {
+    id: '4761411',
+    name: 'bartonhistory',
+    text: 'BartonHistory',
+    module: 'B',
+    isClassroom: false,
+    isTesClassroom: false
+    ,defaultSpaceId: 4761411
+  },
+  project: {
+    id: '4761411',
+    name: ''
+  },
+  space: {
+    id: '4761411',
+    name: 'bartonhistory',
+    isDefaultSpace: true
+  },
+
+  environment_name: 'prod',
+  userCanAdministerWiki: false,
+
+  path: {
+    object: 'page',
+    method: 'view',
+    page: 'Col. John Edward Broadbent (1845-1931)',
+    id: ''
+  },
+
+  settings: {
+    main_domain: 'wikispaces.com',
+    asset_url_prefix: 'https://web.archive.org/web/20141103121213/http://www.wikispaces.com',
+    beta_features: false,
+    isMobileSite: false,
+    isUploadCapable: true,
+    can_discuss: false,
+    has_gdocs: false,
+    isDialog: false,
+    pwin: ''
+  },
+  clockSkewMillis: 1415016733332 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+}
+
+
+// legacy javascript API variables, use the above instead
+var wikispaces_isUserLoggedIn = !!ws.context.user.id;
+var wikispaces_isMain = ws.context.instance.isMain;
+var wikispaces_username = ws.context.user.username;
+var wikispaces_spaceName = ws.context.space.name;
+var wikispaces_projectName = ws.context.project.name;
+var wikispaces_wikiName = ws.context.wiki.name;
+var wikispaces_wikiText = ws.context.wiki.text;
+var wikispaces_isDefaultSpace = ws.context.space.isDefaultSpace;
+var wikispaces_method = ws.context.path.method;
+var wikispaces_object = ws.context.path.object;
+var wikispaces_page = ws.context.path.page;
+var wikispaces_id = ws.context.path.id;
+var wikispaces_domain = ws.context.instance.url;
+var wikispaces_isUserOrganizer = false;
+var wikispaces_main_domain = ws.context.settings.asset_url_prefix;
+var wikispaces_asset_url_prefix = ws.context.settings.asset_url_prefix;
+var wikispaces_beta_features = ws.context.settings.beta_features;
+var wikispaces_isMobileSite = ws.context.settings.isMobileSite;
+var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
+var wikispaces_can_discuss = ws.context.settings.can_discuss;
+var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
+
+</script>
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+<title>BartonHistory - Col. John Edward Broadbent (1845-1931)</title>
+<meta charset="utf-8"/>
+<link rel="apple-touch-icon" sizes="144x144" href="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/_/z6371z4x/i/logo-144.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/_/j5j77xz3/i/logo-114.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/_/vq8j5432/i/logo-72.png"/>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/_/38515190/i/logo-57.png"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/_/55v9k02z/i/logo-16.png"/>
+<style type="text/css">
+/* Standard theme styles */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+.ws-theme-header-inner,
+.ws-theme-body-inner,
+.ws-theme-footer-inner,
+.ws-theme-content-inner,
+.ws-theme-sidebar-inner {
+  position: relative;
+}
+.ws-theme-header-inner:after,
+.ws-theme-body-inner:after,
+.ws-theme-footer-inner:after,
+.ws-theme-content-inner:after,
+.ws-theme-sidebar-inner:after,
+.ws-theme-menu-inner:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: auto;
+}
+.ws-theme-footer {
+  text-align: right;
+}
+.ws-theme-footer a, .ws-theme-footer a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ws-theme-content {
+    width: 550px;
+    min-height: 384px;
+    float: right;
+  }
+  .ws-theme-sidebar {
+    width: 200px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .ws-theme-container {
+    width: 970px;
+  }
+  .ws-theme-content {
+    width: 770px;
+    min-height: 496px;
+  }
+}
+@media (min-width: 1200px) {
+  .ws-theme-container {
+    width: 1170px;
+  }
+  .ws-theme-content {
+    width: 970px;
+    min-height: 600px;
+  }
+}
+/* End standard theme styles */
+</style>
+<style type="text/css">
+/* Theme-specific styles */
+body {
+  background-color: #DEDEDE;
+}
+
+.ws-theme-container {
+  margin: 0 5px;
+  width: auto;
+}
+
+.ws-theme-header .WikiSearch .WikiSearchInput,
+.ws-theme-sidebar .WikiSearch .WikiSearchInput,
+.ws-theme-footer .WikiSearch .WikiSearchInput {
+  width: 100%;
+}
+
+.ws-theme-header a,
+.ws-theme-header a:hover,
+.ws-theme-sidebar a,
+.ws-theme-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+.ws-theme-sidebar a:hover,
+.ws-theme-footer a:hover {
+  text-decoration: underline;
+}
+.ws-theme-header img,
+.ws-theme-sidebar img,
+.ws-theme-footer img {
+  border: none;
+}
+
+.ws-theme-content,
+.ws-theme-sidebar {
+  overflow-x: visible;
+}
+
+.ws-theme-header-inner,
+.ws-theme-content-inner,
+.ws-theme-menu-inner,
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.ws-theme-header,
+.ws-theme-sidebar {
+  display: none;
+}
+
+.ws-theme-header,
+.ws-theme-footer {
+  color: #FFF;
+}
+
+.ws-theme-header-inner,
+.ws-theme-footer-inner {
+  background-color: #000000;
+}
+
+.ws-theme-body-inner {
+  padding: 7px 0;
+}
+
+.ws-theme-content-inner {
+  background-color: #FFF;
+}
+
+.ws-theme-footer {
+  text-align: left;
+}
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.ws-theme-footer .WikiLicense img {
+  vertical-align: text-bottom;
+}
+
+@media (min-width: 768px) {
+  .ws-theme-container {
+    margin: 0 10px;
+    width: auto;
+  }
+
+  .ws-theme-header,
+  .ws-theme-sidebar {
+    display: block;
+  }
+
+  .ws-theme-header-inner {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+
+  .ws-theme-body-inner {
+    padding: 15px 0;
+  }
+
+  .ws-theme-content {
+    width: auto;
+    margin-left: 200px;
+    padding-left: 15px;
+    float: none;
+  }
+  .ws-theme-content-inner {
+    float: left;
+    width: 100%;
+  }
+
+  .ws-theme-sidebar {
+    margin-top: -15px;
+    color: #000000;
+  }
+  .ws-theme-sidebar .ws-theme-menu {
+    margin-top: 15px;
+  }
+  .ws-theme-sidebar .ws-theme-menu-inner {
+    padding: 10px;
+    background-color: #333333;
+  }
+  .ws-theme-sidebar .WikiActions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .ws-theme-sidebar .WikiActions > li {
+    padding: 2px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol {
+    padding-left: 16px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol.includePageList {
+    padding-left: 0;
+  }
+  .ws-theme-sidebar .WikispacesNavbar {
+    margin: 0 -10px;
+    padding: 0 10px;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit {
+    color: #666;
+    text-align: center;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit a {
+    color: inherit;
+  }
+}
+/* End theme-specific styles */
+</style>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121213cs_/http://www.wikispaces.com/stylesheet/viewi/217420326D.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121213cs_/http://www.wikispaces.com/s/nogz/6zx423j5-internal-bootstrap.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121213cs_/http://www.wikispaces.com/s/nogz/84504604-internal.css" type="text/css"/>
+<script src="https://web.archive.org/web/20141103121213js_/http://www.wikispaces.com/s/nogz/v9z75x0v-common.min.js" type="text/javascript"></script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//web.archive.org/web/20141103121213/http://cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+  var wsGoogleAccount = 'UA-80504-1';
+  _gaq.push(['_setAccount', wsGoogleAccount]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'wikispaces.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+</script></head>
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder"><div class="WikispacesContent WikispacesBs3" role="banner">
+      
+    <div class="ws-main-top-nav visible-xs">
+    <div class="navbar navbar-static-top" style="margin-bottom: 0;">
+      <div class="container">
+                <div class="navbar-header">
+          <div class="visible-xs pull-left">
+            <a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/menu" class="WikispacesDialogLink btn navbar-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+          <div class="visible-xs pull-right js-globalnav-popover-container">
+                        <a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+              guest
+            </a>
+                        <div class="hidden js-globalnav-popover-content">
+              <div class="WikispacesContent WikispacesBs3">
+                <div class="WikiInternalHeaderNav noHide">
+  <div class="WikiInternalHeaderNavMenu">
+                          
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103121213/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div>              </div>
+            </div>
+          </div>
+          <div class="ws-navbar-middle-xs">
+            <div class="navbar-brand" role="navigation">
+              <a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/" class="ws-logo"></a>
+              <i class="fa fa-angle-right"></i>
+              <a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/">BartonHistory</a>
+                              <i class="fa fa-angle-right"></i> <a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/home">Home</a>
+              
+            </div>
+          </div>
+                    <form action="/web/20141103121213/http://bartonhistory.wikispaces.com/search/view" method="post" class="navbar-form ws-include-xs pull-left ws-navbar-search hidden-xs" role="search"><input type="text" class="form-control search-query" name="q" value="" placeholder="Search"/> </form>
+                  </div>
+      </div>
+    </div>
+  </div>
+      <div class="hidden-xs"><div class="WikiInternalHeaderNav WikiElement floating">
+  <div class="WikiInternalHeaderNavMenu">
+                                    <span class="WikiInternalHeaderNavMenuArea guestUserName">guest</span><span class="slideMarker divider">|</span>
+        
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103121213/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div></div>
+  </div></div><div id="js-fixed-header-offset">
+<header class="ws-theme-header" role="banner">
+  <div class="ws-theme-container">
+    <div class="ws-theme-header-inner">
+      <a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/" class="WikiLogo WikiElement"><img src="https://web.archive.org/web/20141103121213im_/http://bartonhistory.wikispaces.com/space/showlogo/1414750174/logo.png" alt="BartonHistory"/></a>    </div>
+  </div>
+</header>
+
+<div class="ws-theme-body">
+  <div class="ws-theme-container">
+    <div class="ws-theme-body-inner">
+      <nav class="ws-theme-sidebar" role="navigation">
+        <div class="ws-theme-sidebar-inner">
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <ul class="WikiActions WikiElement WikiControls">
+    <li id="WikiActionHome"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/"><i class="fa fa-home fa-fw"></i></a><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/">Wiki Home</a></div></li>
+    <li id="WikiActionChanges"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/changes"><i class="fa fa-clock-o fa-fw"></i></a><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/changes">Recent Changes</a></div></li>
+    <li id="WikiActionPagesAndFiles"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content"><i class="fa fa-file-text-o fa-fw"></i></a><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content">Pages and Files</a></div></li>
+    <li id="WikiActionMembers"><div class="js-member-link"><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/members"><i class="fa fa-user fa-fw"></i></a><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/members">Members</a></div></li>
+</ul>
+              <form action="/web/20141103121213/http://bartonhistory.wikispaces.com/search/view" method="post" class="WikiSearch WikiElement" role="search"><input type="text" class="form-control WikiSearchInput" name="q" value="" placeholder="Search"/> </form>            </div>
+          </div>
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <div class="WikiCustomNav WikiElement wiki"><span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Home">Home</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/The+Barton+name">The Barton name</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Royal+ancestry">Royal ancestry</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Famous+connections">Famous connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Living+connections">Living connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Coats+of+Arms">Coats of arms</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/DNA">DNA</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Mysteries">Mysteries</a></span><br/>
+<span style="color: #808080;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/To+Do+list">To Do list</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Living+connections">Contact me</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/People">All people</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Places">All places</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Objects">All objects</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Sources">All sources</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Contents">All pages</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><u>SELECTED PAGES</u></span><br/>
+<span style="color: #c0c0c0;"><!-- ws:start:WikiTextIncludeRule:00:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/include/pageList?w=200&amp;h=100&quot; class=&quot;WikiMedia WikiMediaInclude&quot; id=&quot;wikitext@@include@@component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; title=&quot;Include pageList: component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; /&gt; --><div class="includeBody"><ol class="includePageList">
+              <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ABernard+Barton+the+Quaker+Poet+Correspondence" class="includePageListPageUrl">*Bernard Barton the Quaker Poet Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ABilly+Barton+Diary+and+Letters" class="includePageListPageUrl">*Billy Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ABroadbent+1976" class="includePageListPageUrl">*Broadbent 1976</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ACecil+Barton+Mountaineering+Journals" class="includePageListPageUrl">*Cecil Barton Mountaineering Journals</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ADougan+1826" class="includePageListPageUrl">*Dougan 1826</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2AEmily+Dougan%27s+1856+Sketchbook" class="includePageListPageUrl">*Emily Dougan&#039;s 1856 Sketchbook</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2AJohn+Barton+the+Elder+Correspondence" class="includePageListPageUrl">*John Barton the Elder Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott" class="includePageListPageUrl">*Memoirs of Emily Elliott</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+John+Barton" class="includePageListPageUrl">*Memoirs of John Barton</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ANicolson+et+al+1777" class="includePageListPageUrl">*Nicolson et al 1777</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/%2ARonald+Barton+Diary+and+Letters" class="includePageListPageUrl">*Ronald Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29" class="includePageListPageUrl">Ann (d.1748)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Barton+%28hamlet+%26+parish%29" class="includePageListPageUrl">Barton (hamlet &amp; parish)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29" class="includePageListPageUrl">Bernard Barton of Carlisle (1728-1773)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Bernard+Barton+the+Quaker+poet+%281784-1849%29" class="includePageListPageUrl">Bernard Barton the Quaker poet (1784-1849)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Charles+Elliott+%281776-1856%29" class="includePageListPageUrl">Charles Elliott (1776-1856)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Charles+Elliott+the+cabinet-maker+%281752-1832%29" class="includePageListPageUrl">Charles Elliott the cabinet-maker (1752-1832)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Chateau+Castelnau" class="includePageListPageUrl">Chateau Castelnau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Col.+John+Edward+Broadbent+%281845-1931%29" class="includePageListPageUrl">Col. John Edward Broadbent (1845-1931)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Emily+Elliott+%281839-1924%29" class="includePageListPageUrl">Emily Elliott (1839-1924)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29" class="includePageListPageUrl">Esther Broadbent (1873-1959)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Etienne+Boileau" class="includePageListPageUrl">Etienne Boileau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/High+Head+Chapel" class="includePageListPageUrl">High Head Chapel</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Ive+Bank%2C+Ivegill" class="includePageListPageUrl">Ive Bank, Ivegill</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29" class="includePageListPageUrl">John Barton (d.1720)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/John+Barton+of+Ivegill+%28d.1747%29" class="includePageListPageUrl">John Barton of Ivegill (d.1747)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/John+Barton+Senior+%281789-1852%29" class="includePageListPageUrl">John Barton Senior (1789-1852)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/John+Barton+the+Elder+%281754-1789%29" class="includePageListPageUrl">John Barton the Elder (1754-1789)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/John+Dougan+%281765-1826%29" class="includePageListPageUrl">John Dougan (1765-1826)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Ormside+Hall" class="includePageListPageUrl">Ormside Hall</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Parishes+of+Cumberland+and+Westmorland" class="includePageListPageUrl">Parishes of Cumberland and Westmorland</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29" class="includePageListPageUrl">Rev. Cecil Barton (1870-1909)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+Charles+Boileau+Elliott+%281803-1875%29" class="includePageListPageUrl">Rev. Charles Boileau Elliott (1803-1875)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+John+Barton+of+Cambridge+%281836-1908%29" class="includePageListPageUrl">Rev. John Barton of Cambridge (1836-1908)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Ronald+Barton+%281901-1986%29" class="includePageListPageUrl">Ronald Barton (1901-1986)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India" class="includePageListPageUrl">Shimla, India</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Solomon+Boileau+%281745-1810%29" class="includePageListPageUrl">Solomon Boileau (1745-1810)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/Thomas+Dougan+%28d.1797%29" class="includePageListPageUrl">Thomas Dougan (d.1797)</a></li>
+      </ol></div><!-- ws:end:WikiTextIncludeRule:00 --> </span><br/>
+<br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Editors+FAQ">Editors FAQ</a></span><br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Online+resources">Online resources</a></span></div>              <div class="ws-theme-nav-edit">
+                              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main class="ws-theme-content" role="main">
+        <div class="ws-theme-content-inner">
+          <div class="contentBox"><div class="innerContentBox" id="WikiContent">
+
+<script type="text/template" id="comment-footer-template">
+
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</script>
+
+<script type="text/template" id="comment-content-template">
+<div class="ws-box commentView">
+  <div class="comment-close">
+    <button type="button" class="closeme close" aria-hidden="true">&times;</button>
+  </div>
+  <div class="commentHeader">
+    <p class="ws-stream-meta command-context">
+      <a class="userLink userLinkPicture" href="<%= userCreated.url %>"><img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16"></a>
+      <a href="<%= userCreated.url %>"><%= userCreated.username %></a>
+      <% if (smartDate == '__live__') { %>
+      <abbr class="timeago" title="<%= (new Date(parseInt(dateCreated, 10) * 1000)).toISOString() %>">
+        <%= dateCreated %>
+      </abbr>
+      <% } else { %>
+        <%- smartDate %>
+      <% } %>
+      <% if (ws.context.userCanAdministerWiki) { %>
+        <i class="fa fa-trash-o contextual-command delete ws-tip" title="Delete Comment"></i>
+      <% } %>
+    </p>
+  </div>
+
+  <div class="commentBody">
+    <div class="commentContent">
+      <%= description %>
+    </div>
+
+      <% for(i = 0; i < replyPages.length; i++) { %>
+        <% for(var j = 0; j < replyPages[i].digests.length; j++) { %>
+      <div class="commentReply" data-id="<%= replyPages[i].digests[j].id %>">
+        <p class="ws-stream-meta command-context">
+          <a class="userLink userLinkPicture" href="<%= replyPages[i].digests[j].userCreated.url %>"><img class="userPicture" src="<%= replyPages[i].digests[j].userCreated.imageUrl %>" width="16" height="16"></a>
+          <a href="<%= replyPages[i].digests[j].userCreated.url %>"><%= replyPages[i].digests[j].userCreated.username %></a>
+          <% if (smartDate == '__live__') { %>
+          <abbr class="timeago" title="<%= (new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000)).toISOString() %>">
+            <%= new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000).toLocaleString() %>
+          </abbr>
+          <% } else { %>
+            <%- smartDate %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+          <i class="fa fa-trash-o contextual-command delete-reply ws-tip" title="Delete Reply"></i>
+          <% } %>
+          </p>
+        <div class="commentContent"><%= replyPages[i].digests[j].body %></div>
+      </div>
+        <% } %>
+      <% } %>
+
+      <form class="reply commentReply">
+        <div class="form-group">
+          <textarea name="reply" placeholder="Reply" class="form-control" /></textarea>
+        </div>
+        <div class="btn-toolbar">
+          <button type="submit" class="btn btn-primary btn-sm" name="go" value="1">Post</button>
+
+          <% if (ws.context.user.id) { %>
+            <% if (monitored) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip active" title="You are monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip" title="You are not monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+            <% if (locked) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip active" title="Replies are not allowed."><i class="fa fa-lock"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip" title="Replies are allowed."><i class="fa fa-lock"></i></button>
+            <% } %>
+          <% } %>
+
+          <i class="fa fa-spinner fa-spin spinner pull-right hidden"></i>
+        </div>
+      </form>
+   </div>
+
+   
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-composer-template">
+<div class="ws-box commentView">
+  <div class="commentComposer">
+    <div class="comment-close">
+      &nbsp;<button type="button" class="close closeme" aria-hidden="true">&times;</button>
+    </div>
+    <div class="commentHeader">
+      <p class="ws-stream-meta command-context">
+        <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+        <a href="#" onclick="return false;"><%= userCreated.username %></a>
+      </p>
+    </div>
+    <div class="commentBody">
+      <textarea name="comment" class="compose form-control" placeholder="Comment"/></textarea><br/>
+      <div class="btn-toolbar">
+        <button type="button" class="btn btn-default btn-sm monitored active pull-right" style="margin-left: 6px" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-eye"></i></button>
+        <button type="button" class="btn btn-default btn-sm locked btn-toggle pull-right" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-lock"></i></button>
+        <button type="button" class="btn btn-primary btn-sm closeme">Save</button>
+      </div>
+    </div>
+  </div>
+
+  
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-proxy-template">
+<div class="comment-proxy">
+  <span class="commentUser">
+  <% if (userCreated) { %>
+    <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+  <% } else { %>
+    <img class="userPicture" src="<%= ws.context.user.imageUrlPrefix %>sm.jpg" width="16" height="16">
+  <% } %>
+  </span>
+  <span class="commentReplies"><%= 1 + _(replyPages).reduce(function(memo, page){ return memo + page.digests.length; }, 0) %></span>
+</div>
+</script>
+
+<div class="ws-menu-bar WikiControls WikispacesContent WikispacesBs3">
+  
+    <h1 class="pageTitle"><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/Col.+John+Edward+Broadbent+%281845-1931%29">Col. John Edward Broadbent (1845-1931)</a></h1>
+      <div class="btn-group pull-right">
+          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="no discussion posts" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/messages/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-comments fa-fw"></i> 0</a>          <a class="btn btn-default tipme" title="view 31 revisions" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/history/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-clock-o fa-fw"></i> 31</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/menu/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="icon-height-only fa-fw"></i>&hellip;</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
+              <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/tags/Col.+John+Edward+Broadbent+%281845-1931%29"><span class="pull-right">11</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
+          <div class="dropdown-menu dropdown-menu-right ws-tag-dropdown-menu">
+          
+
+
+
+<form action="#" name="WikiTagForm" class="WikiTagForm">
+  <div class="WikiTagList">
+    <i class="fa fa-tag ws-action"></i>
+        <ul class="list-unstyled">
+                          <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=19thc">19thc</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=20thc">20thc</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=broadbent">broadbent</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=colonel">colonel</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=favourite">favourite</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=gx2">gx2</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=honoured">honoured</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=india">india</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=john">john</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=military">military</a></li>
+                                <li><a href="/web/20141103121213/http://bartonhistory.wikispaces.com/space/content?tag=people">people</a></li>
+              </ul>
+      </div>
+  </form>      </div>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class=" WikispacesDialogLink" href="https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/wiki/addmonitor?monitorLink=page%3ACol.%20John%20Edward%20Broadbent%20%281845-1931%29"><i class="fa fa-eye fa-fw"></i> Notify</a>
+    </li>
+        <li class=""><a class=" WikispacesDialogLink" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/rss/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-rss fa-fw"></i> RSS</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/links/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-link fa-fw"></i> Backlinks</a>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class="" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/code/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-code fa-fw"></i> Source</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Col.+John+Edward+Broadbent+%281845-1931%29?f=print"><i class="fa fa-print fa-fw"></i> Print</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121213/http://bartonhistory.wikispaces.com/page/pdf/Col.+John+Edward+Broadbent+%281845-1931%29"><i class="fa fa-cloud-download fa-fw"></i> Export (PDF)</a>
+    </li>
+      </ul>  </div>
+  </div>
+
+
+
+
+  <textarea class="form-control" id="autosaveContent" style="display:none;" rows="1" cols="1"></textarea>
+  <div id="autosavePrompt" style="display:none;"></div>
+
+<div class="commentContainer">
+  <div class="commentSubject">
+  <div class="wiki wikiPage" id="content_view">
+  <ul><li><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Living+connections#David%20Barton">DBHB</a>'s great x2 grandfather.</li><li>Born 14 April 1845, son of <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/John+Broadbent+%281796-1880%29">John Broadbent (1796-1880)</a> and <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Butterworth+%281810-1879%29">Esther Butterworth (1810-1879)</a>.</li><li>Contemporary of <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; cursor: pointer; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Friedrich_Nietzsche" rel="nofollow" target="_blank">Friedrich Nietzsche (1844-1900)</a></span> and <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; cursor: pointer; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Buffalo_Bill" rel="nofollow" target="_blank">William Frederick &quot;Buffalo Bill&quot; Cody (1846-1917)</a></span>.</li><li>Chief Royal Engineer in the Punjab.</li><li>Married firstly, in Calcutta in 29 May 1870, <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Dora Nicholson (1844-1897)</a>.</li><li>Father of <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther Broadbent (1873-1959)</a>.</li><li>Lived at <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Woodhall Cottage, Longwood, Shimla, India</a>.</li><li>Married secondly, on 1 February 1900, the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://thepeerage.com/p3914.htm#i39137" rel="nofollow" target="_blank">Honourable Alexandra (Alex) Caroline Frances Twisleton-Wykeham-Fiennes</a>.</li><li>Died 7 January 1931, aged 85. Buried at Beech Hill, near Reading.</li></ul><br/>
+<br/>
+<!-- ws:start:WikiTextRemoteImageRule:38:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/John%20Edward%20Broadbent%201845-1931%20with%20his%20daughter%20Esther%20at%20Woodhall%20Cottage%20in%20Shimla%20India.jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;height: 555px;&quot; /&gt; --><img src="https://web.archive.org/web/20141103121213im_/http://dl.dropbox.com/u/2324445/John%20Edward%20Broadbent%201845-1931%20with%20his%20daughter%20Esther%20at%20Woodhall%20Cottage%20in%20Shimla%20India.jpg" alt="external image John%20Edward%20Broadbent%201845-1931%20with%20his%20daughter%20Esther%20at%20Woodhall%20Cottage%20in%20Shimla%20India.jpg" title="external image John%20Edward%20Broadbent%201845-1931%20with%20his%20daughter%20Esther%20at%20Woodhall%20Cottage%20in%20Shimla%20India.jpg" style="height: 555px;"/><!-- ws:end:WikiTextRemoteImageRule:38 --><br/>
+<strong>John</strong> with his only daughter <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther</a> at <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India#Woodhall">Woodhall Cottage, Shimla, India</a>, ~1887.<br/>
+<br/>
+<!-- ws:start:WikiTextRemoteImageRule:39:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/The%20Broadbents.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt; --><img src="https://web.archive.org/web/20141103121213im_/http://dl.dropbox.com/u/2324445/The%20Broadbents.jpg" alt="external image The%20Broadbents.jpg" title="external image The%20Broadbents.jpg"/><!-- ws:end:WikiTextRemoteImageRule:39 --><br/>
+The Broadbents with friends in <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Shimla, India</a>. <strong>John</strong> and his wife <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Dora</a> are standing just behind the wheel. His only daughter <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther</a> is seated with her hands on her legs at the bottom right. Taken in ~1887.<br/>
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+Details about John's life, with extracts from a number of his letters, are given in <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/%2ABroadbent+1976">*Broadbent 1976</a>. He grew up in a house in Longwood Edge near Huddersfield. (It is striking and probably not coincidental that the neighbourhood of his later house <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Woodhall Cottage in Shimla, India</a>, is even now known as <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Longwood,_Shimla" rel="nofollow" target="_blank">Longwood</a>).<br/>
+<br/>
+<!-- ws:start:WikiTextMediaRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/7304655?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;7304655&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; --><div id="mapviewer"><iframe id="map" name="mapFrame" scrolling="no" width="800" height="300" frameborder="0" src="https://web.archive.org/web/20141103121213if_/http://www.bing.com/maps/embed/?lvl=15&amp;cp=53.65243055555559~-1.8458055555555575&amp;sty=s&amp;draggable=true&amp;v=2&amp;eo=1&amp;where1=53.6524305555556%2C+-1.84580555555556&amp;pp=53.6524305555556~-1.84580555555556&amp;emid=403a5cc9-42ac-4ce3-5eb7-f46e568b38e5&amp;w=800&amp;h=300"></iframe>
+<div id="LME_maplinks" style="line-height:20px;"><a id="LME_largerMap" href="https://web.archive.org/web/20141103121213/http://www.bing.com/maps/?mm_embed=map&amp;cp=53.65243055555559~-1.8458055555555575&amp;lvl=15&amp;sty=s&amp;where1=53.6524305555556%2C+-1.84580555555556" target="_blank" name="LME_largerMap">View Larger Map</a>&nbsp;<a id="LME_directions" href="https://web.archive.org/web/20141103121213/http://www.bing.com/maps/?mm_embed=dir&amp;cp=53.65243055555559~-1.8458055555555575&amp;rtp=~pos.53.6524305555556_-1.84580555555556_53.6524305555556%2C+-1.84580555555556&amp;lvl=15&amp;sty=s" target="_blank" name="LME_directions">Get Directions</a>&nbsp;<a id="LME_birdsEye" href="https://web.archive.org/web/20141103121213/http://www.bing.com/maps/?mm_embed=be&amp;cp=53.65243055555559~-1.8458055555555575&amp;lvl=1&amp;sty=b&amp;where1=53.6524305555556%2C+-1.84580555555556" target="_blank" name="LME_birdsEye">View Bird's Eye</a></div>
+</div><!-- ws:end:WikiTextMediaRule:0 --><br/>
+<br/>
+On 10 February 1864 he joined the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Royal_Military_Academy,_Woolwich" rel="nofollow" target="_blank">Royal Military Academy at Woolwich</a>. A conscientious and fervent Christian, he was apparently not popular with an otherwise very truculent year of boys. He came first in his final exams in June 1866, winning their 'Pollock Gold Medal' and three other prizes. Thereafter, in September, he became a fully fledged 'Engineer Officer' in the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Royal_Engineers" rel="nofollow" target="_blank">Royal Engineers</a> at Chatham. In spring 1867 he volunteered for duty in India, and was quickly promoted to Lieutenant on 8 October 1868. On 14 November 1868 he departed Portsmouth for India.<br/>
+<br/>
+Within a year and a half of arriving, he met his future wife <span style="color: #660000; cursor: pointer;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Dora Nicholson (1844-1897)</a></span> while stationed in Calcutta. They were married shortly thereafter on 29 May 1870, though his family did not initially approve.<br/>
+<br/>
+John joined the Military Works Department in 1874, and his work involved a lot of travelling. He came on leave in 1876, and returned to India in 1879 (leaving his wife and children in England for a while) having been promoted to Captain on 24 January 1879. From 1882-1892 he worked in the Military Department of the Government of India as Assistant and later Deputy Secretary, migrating between Calcutta and <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Shimla</a> (then Simla) every half-year. From 1892 he was Deputy Director-General of Military Works, and later became Chief Engineer of the Bombay Military Works and then Chief Engineer at Punjab Command. He took part in the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Tirah_Expedition" rel="nofollow" target="_blank">Tirah campaign</a> of 1897-98, and the relief of the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Siege_of_Malakand" rel="nofollow" target="_blank">Siege of Malakand</a> in 1897. (<a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Winston_Churchill" rel="nofollow" target="_blank">Winston Churchill</a> was in the same force and &quot;Colonel J. E. Broadbent&quot; is mentioned on p210 in the appendix of his first non-fictional publication &quot;<a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://books.google.co.uk/books?id=Q_ugUZWB1GsC&amp;lpg=PP1&amp;pg=PA210#v=onepage&amp;q&amp;f=false" rel="nofollow" target="_blank">The Story of the Malakand Field Force - An Episode of the Frontier War</a>&quot;). For John's service in these conflicts he was made a <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Order_of_the_Bath" rel="nofollow" target="_blank">Companion of the Order of the Bath (C.B.)</a>.<br/>
+<br/>
+His wife Dora died at <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; cursor: pointer; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Murree" rel="nofollow" target="_blank">Murree</a></span> in 1897. He later married, on 1 February 1900, the <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; cursor: pointer; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://thepeerage.com/p3914.htm#i39137" rel="nofollow" target="_blank">Honourable Alexandra (Alex) Caroline Frances Twisleton-Wykeham-Fiennes</a></span> (a member of the same <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Famous+connections#Fiennes">eminent family</a> that produced the explorer <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Ranulph_Fiennes" rel="nofollow" target="_blank">Sir Ranulph Twisleton-Wykeham-Fiennes</a> and the actors <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Ralph_Fiennes" rel="nofollow" target="_blank">Ralph</a> and <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Joseph_Fiennes" rel="nofollow" target="_blank">Joseph Fiennes</a>). He retired, by then a full Colonel, in 1902, aged 57. Back in England he became <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Justice_of_the_peace" rel="nofollow" target="_blank">Justice of the Peace</a> for Berkshire.<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:1:&lt;h1&gt; --><h1 id="toc0"><a name="Mentions in Emily's Memoir"></a><!-- ws:end:WikiTextHeadingRule:1 -->Mentions in <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott">Emily's Memoir</a></h1>
+ <br/>
+<em>&quot;In September this year</em> [1894] <em>our <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29">Cecil</a> was very happily engaged at <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Simla</a> to the daughter of a very old friend, <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther Broadbent</a>, child of <strong>Colonel Broadbent</strong> and of his wife, formerly <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Dora Nicholson</a> whom we had known intimately in Calcutta between '65 and '70. Esther and her mother came home in November, and Esther soon found a place in our hearts after we met her at her uncle <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Sir+William+Henry+Broadbent+%281835-1907%29">Sir William Broadbent</a>'s house in London.&quot;</em> <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott#108">p108</a><br/>
+<br/>
+<em>&quot;</em><em>On October 21</em> [1896] <em><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29">Cecil</a> and <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther</a> were married at <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Murree" rel="nofollow" target="_blank">Murree</a></span>, in India, by good Bishop <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Henry_James_Matthew" rel="nofollow" target="_blank">Matthew</a></span>s of Lahore. <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Arthur+Elliott+Barton+%281864-1931%29">Arthur</a> was alas! the only one to represent the family, and he sent us a delightful account of that happy and festive occasion. <strong>Colonel</strong> and <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Mrs. Broadbent</a> grudged nothing to their sweet and only daughter - and the Mother (our friend Dora Nicholson of early</em> <span style="background-attachment: initial; background-clip: initial; background-color: initial; background-origin: initial; background-position: 100% 50%; background-repeat: no-repeat no-repeat; cursor: pointer; padding-right: 10px;"><a class="wiki_link_ext" href="https://web.archive.org/web/20141103121213/http://en.wikipedia.org/wiki/Kolkata" rel="nofollow" target="_blank">Calcutta</a></span> <em>days) quite accepted Cecil as a son, during the eight months she lived after this marriage - after which a sudden illness called her 'Home'</em> [footnote by <span style="cursor: pointer;"><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Lt.+Col.+Ted+Barton+%281897-1971%29">JEBB</a></span>: <em>In June, 1897. Two months laters <strong>Col. Broadbent</strong> having gone to the Malakand Campaign as Chief Engineer, Esther travelled to Barnes Court, <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Shimla%2C+India">Simla</a>, residence of '<a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Sir+William+Mackworth+Young+%28b.1840%29">Uncle Willy</a>' Mackworth Young, then Lieutenant-Governor of the Punjab, where <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Lt.+Col.+Ted+Barton+%281897-1971%29">Ted</a> was born, on September 6th.</em>]<em>. After a brief honeymoon this young couple settled down in Multan to work there for two years.</em><em>&quot;</em> <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott#112">p112</a><br/>
+<br/>
+&quot;<em>When autumn came we began to look forward to the return of <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29">Cecil</a> and his <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">wife</a> and son <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Lt.+Col.+Ted+Barton+%281897-1971%29">Ted</a> - and were thankful when they safely arrived on Sunday evening November 13th. Cecil's calm and Esther's pluck carried them thro a long and anxious journey; and after six weeks quiet rest, dear Esther gave us twin-granddaughters, on December 27, who were christened in February 1899, and called '<a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Barton+%281898-1962%29">Dora</a> and Joan'. They were a great joy to their dear Mother and me, tho' of course a great handful; and we were rejoiced to give them a home</em> <em>for three months, especially as Esther's own dear mother was gone aloft, and <strong>Colonel Broadbent</strong> had not then retired from Indian life, so they had no Home in England this year but ours.</em>&quot; <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott#113">pp113-114</a><br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:3:&lt;h1&gt; --><h1 id="toc1"><a name="Children"></a><!-- ws:end:WikiTextHeadingRule:3 -->Children</h1>
+ <br/>
+With <a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Dora+Nicholson+%281844-1897%29">Dora Nicholson (1844-1897)</a>:<br/>
+<ol><li>Unnamed (b.&amp;d.1871)</li><li><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29">Esther Broadbent (1873-1959)</a>.</li><li><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Major-General+Sir+Edward+Broadbent+%281875-1944%29">Major-General Sir Edward Broadbent (1875-1944)</a></li><li>Rev. Harry Broadbent (b.1877)</li><li><a class="wiki_link" href="/web/20141103121213/http://bartonhistory.wikispaces.com/Col.+Theodore+Broadbent+%281881-1952%29">Col. Theodore Broadbent (1881-1952)</a></li></ol>
+  </div>
+
+<div id="pageEditor" class="editorWrapper editorLayer">
+  <iframe id="target_editor" name="target_editor" src="/web/20141103121213if_/http://bartonhistory.wikispaces.com/s/blank.html" style="width:0px;height:0px;border:0"></iframe>
+    <form action="/web/20141103121213/http://bartonhistory.wikispaces.com/page/edit/Col.+John+Edward+Broadbent+%281845-1931%29" method="post" class="editorForm" id="editorForm">
+    <input type="hidden" title="goto" name="goto" value=""/>
+    <input type="hidden" title="mode" name="mode" autocomplete="off" value="visual"/>
+    <input type="hidden" title="version" name="version" autocomplete="off" value="314384416"/>
+    <input type="hidden" title="pageComments" name="pageComments" autocomplete="off" value=""/>
+    <input type="hidden" title="saveAndContinue" name="saveAndContinue" value="0"/>
+    <input type="hidden" title="comment" name="comment" value=""/>
+    <input type="hidden" title="commentsDisabled" name="commentsDisabled" autocomplete="off" value=""/>
+    <input type="hidden" title="contentPresent" name="contentPresent" autocomplete="off" value=""/>
+    <input type="hidden" title="editorCleanup" name="editorCleanup" autocomplete="off" value=""/>
+
+    <textarea id="wsMainEditor" title="content" class="noContentHide" name="WikispacesEditorContent" style="width: 100%; position: absolute; top: -50000px; left: -50000px;" autocomplete="off"></textarea>
+
+  <noscript>
+    <h2>Javascript Required</h2>
+    <p>You need to enable Javascript in your browser to edit pages.</p>
+  </noscript>
+
+  </form>
+  
+  
+  <div id="plainTextEditor" style="position:relative;display:none" class="editorLayer">
+    <textarea id="textEditor" class="autogrow"></textarea>
+    <p style="clear:both;" align="right"><a href="https://web.archive.org/web/20141103121213/http://help.wikispaces.com/help.wikitext" class="js-help-link" data-help="help.wikitext">help on how to format text</a></p>
+  </div>
+</div>
+
+
+
+
+  </div>
+  <div class="commentColumn WikispacesStream"><div class="WikispacesContent WikispacesBs3"><div class="commentList"></div></div></div>
+</div>
+
+</div></div><div id="sentinel" style="clear:both"></div>        </div>
+      </main>
+    </div>
+  </div>
+</div>
+
+<footer class="ws-theme-footer" role="contentinfo">
+  <div class="ws-theme-container">
+    <div class="ws-theme-footer-inner">
+      <div class="WikiFooterNav WikiElement">
+<a href="https://web.archive.org/web/20141103121213/http://help.wikispaces.com/" rel="nofollow" class="js-help-trigger">Help</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/about">About</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://blog.wikispaces.com/" target="_new">Blog</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/privacy" rel="nofollow">Privacy</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/terms" rel="nofollow">Terms</a> &middot;
+<a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/help?url=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529" rel="nofollow"><strong>Support</strong></a></div>      <div class="WikiLicense WikiElement">Contributions to http://bartonhistory.wikispaces.com/ are licensed under a <a rel="license" href="https://web.archive.org/web/20141103121213/http://www.creativecommons.org/licenses/by-nc-sa/3.0">Creative Commons Attribution Share-Alike Non-Commercial 3.0 License</a>. <a rel="license" href="https://web.archive.org/web/20141103121213/http://www.creativecommons.org/licenses/by-nc-sa/3.0"><img src="https://web.archive.org/web/20141103121213im_/http://www.wikispaces.com/i/creativecommons/by-nc-sa_3.0_80x15.png" width="85" height="15" alt="Creative Commons Attribution Share-Alike Non-Commercial 3.0 License"/></a><br/>Portions not contributed by visitors are Copyright 2014 Tangient LLC</div>    </div>
+  </div>
+</footer>
+
+<div id="js-help-template" class="hidden">
+  <div class="ws-help">
+    <div class="js-help-controls WikispacesContent WikispacesBs3">
+      <a href="https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
+      <ol class="breadcrumb">
+        <li class="js-special-breadcrumb active">
+          <a href="https://web.archive.org/web/20141103121213/http://help.wikispaces.com/" data-breadcrumb="0">Home</a>
+        </li>
+        <li class="js-ellipsis hidden js-special-breadcrumb">
+          ...
+        </li>
+        <li class="js-spinner hidden js-special-breadcrumb"><i class="fa fa-spinner fa-spin"></i></li>
+      </ol>
+    </div>
+    <div class="ws-help-content wiki">Loading...</div>
+  </div>
+</div>
+</div>
+<script src="https://web.archive.org/web/20141103121213js_/http://www.wikispaces.com/s/nogz/3q4qjv75-editorc.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+ws.namespace('ws.attributes');
+ws.namespace('ws.stream');
+ws.attributes.version = 314384416;
+ws.attributes.showEditor = true;
+ws.attributes.editUrl = "https:\/\/web.archive.org\/web\/20141103121213\/http:\/\/bartonhistory.wikispaces.com\/page\/edit\/Col.+John+Edward+Broadbent+%281845-1931%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529";
+ws.attributes.userCanEdit = false;
+ws.stream.userCanPostMessage = false;
+ws.stream.hideTimeline = true;
+ws.stream.shareSource = "https:\/\/web.archive.org\/web\/20141103121213\/http:\/\/bartonhistory.wikispaces.com\/page\/shares\/Col.+John+Edward+Broadbent+%281845-1931%29";
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20141103121213/https://ssl' : 'https://web.archive.org/web/20141103121213/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+jQuery(document).ready(function() {
+  ws.common.addJsonNotices({"warning":[],"error":[],"info":[],"success":[]});
+});
+
+jQuery(document).ready(function($) {
+  
+  function tipPlacement() {
+    return this.$element.closest('.ws-menu-bar .btn-group').is('.open') ? 'top' : 'bottom';
+  }
+
+  
+
+  $('.ws-menu-bar').each(function() {
+    var $menuBar = $(this);
+    var $tagDropdown = $menuBar.find('.ws-tag-dropdown-menu');
+    $menuBar.find('.tipme').tooltip({placement: tipPlacement, container: '.ws-menu-bar'});
+
+    
+    $menuBar.find('.ws-btn-more').click(ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .btn-group').is('.open')) {
+        ws.common.hideMorePageBar();
+      } else {
+        ws.common.showMorePageBar();
+      }
+    }));
+
+    $menuBar.on('click', '.ws-tag-dropdown-toggle', ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .dropdown').is('.open')) {
+        ws.common.hideTagDropdown();
+      } else {
+        ws.common.showTagDropdown();
+      }
+    }));
+
+    $(document.body).click(function(e) {
+      var $target = $(e.target);
+      if (!$target.closest('.ws-more-menu').closest('.ws-menu-bar').is($menuBar)
+          || $target.closest('a').is('.WikispacesDialogLink')) {
+        ws.common.hideMorePageBar();
+      }
+      if ($tagDropdown.length && !$target.closest('.ws-tag-dropdown-menu').is($tagDropdown)) {
+        ws.common.hideTagDropdown();
+      }
+    });
+    
+  });
+});
+
+
+jQuery(document).ready(function($) {
+  $('.ws-more-menu').on('click', 'a', function(e) {
+    if ($(this).is('.disabled')) {
+      e.preventDefault();
+    }
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.canEdit = false;
+  var editUrl = 'https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/page/edit/Col.+John+Edward+Broadbent+%281845-1931%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FCol.%2BJohn%2BEdward%2BBroadbent%2B%25281845-1931%2529';
+
+  jQuery('#js-edit-from-template').change(function() {
+    window.location = ws.common.addUriParams(editUrl, [['template', jQuery(this).val()]]);
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.loadEditorLibs('https://web.archive.org/web/20141103121213/http://www.wikispaces.com/site/editorlibs/en/j562054q.js');
+});
+
+
+ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
+  ws.editor.canEdit = true;
+
+  var coreOptions = {
+    'content_css': ['https://web.archive.org/web/20141103121213/http://www.wikispaces.com/stylesheet/editori/217420326D.css']
+  };
+
+  // The stylesheet is passed in as a string, turn it into an array
+  // Add bootstrap styles to the editor, if we are in a theme that has full screen bootstrap
+  if (jQuery('body').is('.WikispacesBs3')) {
+    coreOptions.content_css.push('https://web.archive.org/web/20141103121213/http://www.wikispaces.com//s/internal-bootstrap-body.css');
+  }
+
+  var mainOptions = {
+    'wssave_cancel_url': '/Col.+John+Edward+Broadbent+%281845-1931%29',
+    'wsimage_upload_url': 'https://web.archive.org/web/20141103121213/http://bartonhistory.wikispaces.com/file/multiupload',
+    'wsimage_max_file_size_mb': '20',
+    'wsimage_page_view_group': ''
+  };
+
+  ws.editor.loadEditor(jQuery.extend(coreOptions, moreCoreOptions), jQuery.extend(mainOptions, moreMainOptions));
+};
+
+  var wikispaces_page_version = '314384416';
+
+  jQuery(document).ready(function() {
+    ws.editor.enableButtons();
+  });
+
+
+
+--></script><!-- w20 438 wki:124:196(3) tot:438:438(1) mog:55:55(1) dql:38:47(6) mem:3:38(36) -->
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 12:12:13 Nov 03, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:56:12 Apr 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.915
+  exclusion.robots: 0.109
+  exclusion.robots.policy: 0.092
+  esindex: 0.017
+  cdx.remote: 259.733
+  LoadShardBlock: 446.449 (3)
+  PetaboxLoader3.datanode: 267.939 (4)
+  PetaboxLoader3.resolve: 286.122 (2)
+  load_resource: 174.537
+-->

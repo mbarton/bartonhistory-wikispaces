@@ -1,0 +1,1017 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://bartonhistory.wikispaces.com:80/Thomas+Dougan+%28d.1797%29","20141103121228","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1415016748");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="search" href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/space/opensearch" type="application/opensearchdescription+xml" title="Wikispaces Search (BartonHistory Wiki)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit This Page" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/edit/Thomas+Dougan+%28d.1797%29"/>
+<link rel="alternate" title="BartonHistory - All Changes" href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/xmla?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : Thomas Dougan (d.1797) - Discussion" href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/message/xml/Thomas+Dougan+%28d.1797%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : Thomas Dougan (d.1797) - Edits" href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/page/xml/Thomas+Dougan+%28d.1797%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="microsummary" href="/page/microsummary/Thomas+Dougan+%28d.1797%29/edits"/>
+<link rel="microsummary" href="/page/microsummary/Thomas+Dougan+%28d.1797%29/messages"/>
+<script type="text/javascript">
+  
+if (typeof ws === 'undefined') ws = {};
+if (typeof ws.context === 'undefined') ws.context = {};
+ws.context = {
+  instance: {
+    id: '1',
+    url: 'wikispaces.com',
+    isMain: true,
+    supportsGoogleDocs: false
+  },
+  user: {
+    id: '',
+    username: '',
+    status: '',
+    locale: 'en',
+    imageUrlPrefix: 'https://web.archive.org/web/20141103121228/http://www.wikispaces.com/i/user_none_',
+    pagesVisited: null,
+  },
+  wiki: {
+    id: '4761411',
+    name: 'bartonhistory',
+    text: 'BartonHistory',
+    module: 'B',
+    isClassroom: false,
+    isTesClassroom: false
+    ,defaultSpaceId: 4761411
+  },
+  project: {
+    id: '4761411',
+    name: ''
+  },
+  space: {
+    id: '4761411',
+    name: 'bartonhistory',
+    isDefaultSpace: true
+  },
+
+  environment_name: 'prod',
+  userCanAdministerWiki: false,
+
+  path: {
+    object: 'page',
+    method: 'view',
+    page: 'Thomas Dougan (d.1797)',
+    id: ''
+  },
+
+  settings: {
+    main_domain: 'wikispaces.com',
+    asset_url_prefix: 'https://web.archive.org/web/20141103121228/http://www.wikispaces.com',
+    beta_features: false,
+    isMobileSite: false,
+    isUploadCapable: true,
+    can_discuss: false,
+    has_gdocs: false,
+    isDialog: false,
+    pwin: ''
+  },
+  clockSkewMillis: 1415016748218 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+}
+
+
+// legacy javascript API variables, use the above instead
+var wikispaces_isUserLoggedIn = !!ws.context.user.id;
+var wikispaces_isMain = ws.context.instance.isMain;
+var wikispaces_username = ws.context.user.username;
+var wikispaces_spaceName = ws.context.space.name;
+var wikispaces_projectName = ws.context.project.name;
+var wikispaces_wikiName = ws.context.wiki.name;
+var wikispaces_wikiText = ws.context.wiki.text;
+var wikispaces_isDefaultSpace = ws.context.space.isDefaultSpace;
+var wikispaces_method = ws.context.path.method;
+var wikispaces_object = ws.context.path.object;
+var wikispaces_page = ws.context.path.page;
+var wikispaces_id = ws.context.path.id;
+var wikispaces_domain = ws.context.instance.url;
+var wikispaces_isUserOrganizer = false;
+var wikispaces_main_domain = ws.context.settings.asset_url_prefix;
+var wikispaces_asset_url_prefix = ws.context.settings.asset_url_prefix;
+var wikispaces_beta_features = ws.context.settings.beta_features;
+var wikispaces_isMobileSite = ws.context.settings.isMobileSite;
+var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
+var wikispaces_can_discuss = ws.context.settings.can_discuss;
+var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
+
+</script>
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+<title>BartonHistory - Thomas Dougan (d.1797)</title>
+<meta charset="utf-8"/>
+<link rel="apple-touch-icon" sizes="144x144" href="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/_/z6371z4x/i/logo-144.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/_/j5j77xz3/i/logo-114.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/_/vq8j5432/i/logo-72.png"/>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/_/38515190/i/logo-57.png"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/_/55v9k02z/i/logo-16.png"/>
+<style type="text/css">
+/* Standard theme styles */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+.ws-theme-header-inner,
+.ws-theme-body-inner,
+.ws-theme-footer-inner,
+.ws-theme-content-inner,
+.ws-theme-sidebar-inner {
+  position: relative;
+}
+.ws-theme-header-inner:after,
+.ws-theme-body-inner:after,
+.ws-theme-footer-inner:after,
+.ws-theme-content-inner:after,
+.ws-theme-sidebar-inner:after,
+.ws-theme-menu-inner:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: auto;
+}
+.ws-theme-footer {
+  text-align: right;
+}
+.ws-theme-footer a, .ws-theme-footer a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ws-theme-content {
+    width: 550px;
+    min-height: 384px;
+    float: right;
+  }
+  .ws-theme-sidebar {
+    width: 200px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .ws-theme-container {
+    width: 970px;
+  }
+  .ws-theme-content {
+    width: 770px;
+    min-height: 496px;
+  }
+}
+@media (min-width: 1200px) {
+  .ws-theme-container {
+    width: 1170px;
+  }
+  .ws-theme-content {
+    width: 970px;
+    min-height: 600px;
+  }
+}
+/* End standard theme styles */
+</style>
+<style type="text/css">
+/* Theme-specific styles */
+body {
+  background-color: #DEDEDE;
+}
+
+.ws-theme-container {
+  margin: 0 5px;
+  width: auto;
+}
+
+.ws-theme-header .WikiSearch .WikiSearchInput,
+.ws-theme-sidebar .WikiSearch .WikiSearchInput,
+.ws-theme-footer .WikiSearch .WikiSearchInput {
+  width: 100%;
+}
+
+.ws-theme-header a,
+.ws-theme-header a:hover,
+.ws-theme-sidebar a,
+.ws-theme-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+.ws-theme-sidebar a:hover,
+.ws-theme-footer a:hover {
+  text-decoration: underline;
+}
+.ws-theme-header img,
+.ws-theme-sidebar img,
+.ws-theme-footer img {
+  border: none;
+}
+
+.ws-theme-content,
+.ws-theme-sidebar {
+  overflow-x: visible;
+}
+
+.ws-theme-header-inner,
+.ws-theme-content-inner,
+.ws-theme-menu-inner,
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.ws-theme-header,
+.ws-theme-sidebar {
+  display: none;
+}
+
+.ws-theme-header,
+.ws-theme-footer {
+  color: #FFF;
+}
+
+.ws-theme-header-inner,
+.ws-theme-footer-inner {
+  background-color: #000000;
+}
+
+.ws-theme-body-inner {
+  padding: 7px 0;
+}
+
+.ws-theme-content-inner {
+  background-color: #FFF;
+}
+
+.ws-theme-footer {
+  text-align: left;
+}
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.ws-theme-footer .WikiLicense img {
+  vertical-align: text-bottom;
+}
+
+@media (min-width: 768px) {
+  .ws-theme-container {
+    margin: 0 10px;
+    width: auto;
+  }
+
+  .ws-theme-header,
+  .ws-theme-sidebar {
+    display: block;
+  }
+
+  .ws-theme-header-inner {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+
+  .ws-theme-body-inner {
+    padding: 15px 0;
+  }
+
+  .ws-theme-content {
+    width: auto;
+    margin-left: 200px;
+    padding-left: 15px;
+    float: none;
+  }
+  .ws-theme-content-inner {
+    float: left;
+    width: 100%;
+  }
+
+  .ws-theme-sidebar {
+    margin-top: -15px;
+    color: #000000;
+  }
+  .ws-theme-sidebar .ws-theme-menu {
+    margin-top: 15px;
+  }
+  .ws-theme-sidebar .ws-theme-menu-inner {
+    padding: 10px;
+    background-color: #333333;
+  }
+  .ws-theme-sidebar .WikiActions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .ws-theme-sidebar .WikiActions > li {
+    padding: 2px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol {
+    padding-left: 16px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol.includePageList {
+    padding-left: 0;
+  }
+  .ws-theme-sidebar .WikispacesNavbar {
+    margin: 0 -10px;
+    padding: 0 10px;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit {
+    color: #666;
+    text-align: center;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit a {
+    color: inherit;
+  }
+}
+/* End theme-specific styles */
+</style>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121228cs_/http://www.wikispaces.com/stylesheet/viewi/217420326D.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121228cs_/http://www.wikispaces.com/s/nogz/6zx423j5-internal-bootstrap.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103121228cs_/http://www.wikispaces.com/s/nogz/84504604-internal.css" type="text/css"/>
+<script src="https://web.archive.org/web/20141103121228js_/http://www.wikispaces.com/s/nogz/v9z75x0v-common.min.js" type="text/javascript"></script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//web.archive.org/web/20141103121228/http://cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+  var wsGoogleAccount = 'UA-80504-1';
+  _gaq.push(['_setAccount', wsGoogleAccount]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'wikispaces.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+</script></head>
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder"><div class="WikispacesContent WikispacesBs3" role="banner">
+      
+    <div class="ws-main-top-nav visible-xs">
+    <div class="navbar navbar-static-top" style="margin-bottom: 0;">
+      <div class="container">
+                <div class="navbar-header">
+          <div class="visible-xs pull-left">
+            <a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/menu" class="WikispacesDialogLink btn navbar-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+          <div class="visible-xs pull-right js-globalnav-popover-container">
+                        <a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+              guest
+            </a>
+                        <div class="hidden js-globalnav-popover-content">
+              <div class="WikispacesContent WikispacesBs3">
+                <div class="WikiInternalHeaderNav noHide">
+  <div class="WikiInternalHeaderNavMenu">
+                          
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103121228/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div>              </div>
+            </div>
+          </div>
+          <div class="ws-navbar-middle-xs">
+            <div class="navbar-brand" role="navigation">
+              <a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/" class="ws-logo"></a>
+              <i class="fa fa-angle-right"></i>
+              <a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/">BartonHistory</a>
+                              <i class="fa fa-angle-right"></i> <a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/home">Home</a>
+              
+            </div>
+          </div>
+                    <form action="/web/20141103121228/http://bartonhistory.wikispaces.com/search/view" method="post" class="navbar-form ws-include-xs pull-left ws-navbar-search hidden-xs" role="search"><input type="text" class="form-control search-query" name="q" value="" placeholder="Search"/> </form>
+                  </div>
+      </div>
+    </div>
+  </div>
+      <div class="hidden-xs"><div class="WikiInternalHeaderNav WikiElement floating">
+  <div class="WikiInternalHeaderNavMenu">
+                                    <span class="WikiInternalHeaderNavMenuArea guestUserName">guest</span><span class="slideMarker divider">|</span>
+        
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103121228/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div></div>
+  </div></div><div id="js-fixed-header-offset">
+<header class="ws-theme-header" role="banner">
+  <div class="ws-theme-container">
+    <div class="ws-theme-header-inner">
+      <a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/" class="WikiLogo WikiElement"><img src="https://web.archive.org/web/20141103121228im_/http://bartonhistory.wikispaces.com/space/showlogo/1414750174/logo.png" alt="BartonHistory"/></a>    </div>
+  </div>
+</header>
+
+<div class="ws-theme-body">
+  <div class="ws-theme-container">
+    <div class="ws-theme-body-inner">
+      <nav class="ws-theme-sidebar" role="navigation">
+        <div class="ws-theme-sidebar-inner">
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <ul class="WikiActions WikiElement WikiControls">
+    <li id="WikiActionHome"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/"><i class="fa fa-home fa-fw"></i></a><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/">Wiki Home</a></div></li>
+    <li id="WikiActionChanges"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/changes"><i class="fa fa-clock-o fa-fw"></i></a><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/changes">Recent Changes</a></div></li>
+    <li id="WikiActionPagesAndFiles"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content"><i class="fa fa-file-text-o fa-fw"></i></a><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content">Pages and Files</a></div></li>
+    <li id="WikiActionMembers"><div class="js-member-link"><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/members"><i class="fa fa-user fa-fw"></i></a><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/members">Members</a></div></li>
+</ul>
+              <form action="/web/20141103121228/http://bartonhistory.wikispaces.com/search/view" method="post" class="WikiSearch WikiElement" role="search"><input type="text" class="form-control WikiSearchInput" name="q" value="" placeholder="Search"/> </form>            </div>
+          </div>
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <div class="WikiCustomNav WikiElement wiki"><span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Home">Home</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/The+Barton+name">The Barton name</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Royal+ancestry">Royal ancestry</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Famous+connections">Famous connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Living+connections">Living connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Coats+of+Arms">Coats of arms</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/DNA">DNA</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Mysteries">Mysteries</a></span><br/>
+<span style="color: #808080;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/To+Do+list">To Do list</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Living+connections">Contact me</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/People">All people</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Places">All places</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Objects">All objects</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Sources">All sources</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Contents">All pages</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><u>SELECTED PAGES</u></span><br/>
+<span style="color: #c0c0c0;"><!-- ws:start:WikiTextIncludeRule:00:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/include/pageList?w=200&amp;h=100&quot; class=&quot;WikiMedia WikiMediaInclude&quot; id=&quot;wikitext@@include@@component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; title=&quot;Include pageList: component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; /&gt; --><div class="includeBody"><ol class="includePageList">
+              <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ABernard+Barton+the+Quaker+Poet+Correspondence" class="includePageListPageUrl">*Bernard Barton the Quaker Poet Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ABilly+Barton+Diary+and+Letters" class="includePageListPageUrl">*Billy Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ABroadbent+1976" class="includePageListPageUrl">*Broadbent 1976</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ACecil+Barton+Mountaineering+Journals" class="includePageListPageUrl">*Cecil Barton Mountaineering Journals</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ADougan+1826" class="includePageListPageUrl">*Dougan 1826</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2AEmily+Dougan%27s+1856+Sketchbook" class="includePageListPageUrl">*Emily Dougan&#039;s 1856 Sketchbook</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2AJohn+Barton+the+Elder+Correspondence" class="includePageListPageUrl">*John Barton the Elder Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott" class="includePageListPageUrl">*Memoirs of Emily Elliott</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2AMemoirs+of+John+Barton" class="includePageListPageUrl">*Memoirs of John Barton</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ANicolson+et+al+1777" class="includePageListPageUrl">*Nicolson et al 1777</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/%2ARonald+Barton+Diary+and+Letters" class="includePageListPageUrl">*Ronald Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29" class="includePageListPageUrl">Ann (d.1748)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Barton+%28hamlet+%26+parish%29" class="includePageListPageUrl">Barton (hamlet &amp; parish)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29" class="includePageListPageUrl">Bernard Barton of Carlisle (1728-1773)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Bernard+Barton+the+Quaker+poet+%281784-1849%29" class="includePageListPageUrl">Bernard Barton the Quaker poet (1784-1849)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Charles+Elliott+%281776-1856%29" class="includePageListPageUrl">Charles Elliott (1776-1856)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Charles+Elliott+the+cabinet-maker+%281752-1832%29" class="includePageListPageUrl">Charles Elliott the cabinet-maker (1752-1832)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Chateau+Castelnau" class="includePageListPageUrl">Chateau Castelnau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Col.+John+Edward+Broadbent+%281845-1931%29" class="includePageListPageUrl">Col. John Edward Broadbent (1845-1931)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Emily+Elliott+%281839-1924%29" class="includePageListPageUrl">Emily Elliott (1839-1924)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29" class="includePageListPageUrl">Esther Broadbent (1873-1959)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Etienne+Boileau" class="includePageListPageUrl">Etienne Boileau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/High+Head+Chapel" class="includePageListPageUrl">High Head Chapel</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Ive+Bank%2C+Ivegill" class="includePageListPageUrl">Ive Bank, Ivegill</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29" class="includePageListPageUrl">John Barton (d.1720)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/John+Barton+of+Ivegill+%28d.1747%29" class="includePageListPageUrl">John Barton of Ivegill (d.1747)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/John+Barton+Senior+%281789-1852%29" class="includePageListPageUrl">John Barton Senior (1789-1852)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/John+Barton+the+Elder+%281754-1789%29" class="includePageListPageUrl">John Barton the Elder (1754-1789)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/John+Dougan+%281765-1826%29" class="includePageListPageUrl">John Dougan (1765-1826)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Ormside+Hall" class="includePageListPageUrl">Ormside Hall</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Parishes+of+Cumberland+and+Westmorland" class="includePageListPageUrl">Parishes of Cumberland and Westmorland</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29" class="includePageListPageUrl">Rev. Cecil Barton (1870-1909)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Rev.+Charles+Boileau+Elliott+%281803-1875%29" class="includePageListPageUrl">Rev. Charles Boileau Elliott (1803-1875)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Rev.+John+Barton+of+Cambridge+%281836-1908%29" class="includePageListPageUrl">Rev. John Barton of Cambridge (1836-1908)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Ronald+Barton+%281901-1986%29" class="includePageListPageUrl">Ronald Barton (1901-1986)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Shimla%2C+India" class="includePageListPageUrl">Shimla, India</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Solomon+Boileau+%281745-1810%29" class="includePageListPageUrl">Solomon Boileau (1745-1810)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/Thomas+Dougan+%28d.1797%29" class="includePageListPageUrl">Thomas Dougan (d.1797)</a></li>
+      </ol></div><!-- ws:end:WikiTextIncludeRule:00 --> </span><br/>
+<br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Editors+FAQ">Editors FAQ</a></span><br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Online+resources">Online resources</a></span></div>              <div class="ws-theme-nav-edit">
+                              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main class="ws-theme-content" role="main">
+        <div class="ws-theme-content-inner">
+          <div class="contentBox"><div class="innerContentBox" id="WikiContent">
+
+<script type="text/template" id="comment-footer-template">
+
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</script>
+
+<script type="text/template" id="comment-content-template">
+<div class="ws-box commentView">
+  <div class="comment-close">
+    <button type="button" class="closeme close" aria-hidden="true">&times;</button>
+  </div>
+  <div class="commentHeader">
+    <p class="ws-stream-meta command-context">
+      <a class="userLink userLinkPicture" href="<%= userCreated.url %>"><img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16"></a>
+      <a href="<%= userCreated.url %>"><%= userCreated.username %></a>
+      <% if (smartDate == '__live__') { %>
+      <abbr class="timeago" title="<%= (new Date(parseInt(dateCreated, 10) * 1000)).toISOString() %>">
+        <%= dateCreated %>
+      </abbr>
+      <% } else { %>
+        <%- smartDate %>
+      <% } %>
+      <% if (ws.context.userCanAdministerWiki) { %>
+        <i class="fa fa-trash-o contextual-command delete ws-tip" title="Delete Comment"></i>
+      <% } %>
+    </p>
+  </div>
+
+  <div class="commentBody">
+    <div class="commentContent">
+      <%= description %>
+    </div>
+
+      <% for(i = 0; i < replyPages.length; i++) { %>
+        <% for(var j = 0; j < replyPages[i].digests.length; j++) { %>
+      <div class="commentReply" data-id="<%= replyPages[i].digests[j].id %>">
+        <p class="ws-stream-meta command-context">
+          <a class="userLink userLinkPicture" href="<%= replyPages[i].digests[j].userCreated.url %>"><img class="userPicture" src="<%= replyPages[i].digests[j].userCreated.imageUrl %>" width="16" height="16"></a>
+          <a href="<%= replyPages[i].digests[j].userCreated.url %>"><%= replyPages[i].digests[j].userCreated.username %></a>
+          <% if (smartDate == '__live__') { %>
+          <abbr class="timeago" title="<%= (new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000)).toISOString() %>">
+            <%= new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000).toLocaleString() %>
+          </abbr>
+          <% } else { %>
+            <%- smartDate %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+          <i class="fa fa-trash-o contextual-command delete-reply ws-tip" title="Delete Reply"></i>
+          <% } %>
+          </p>
+        <div class="commentContent"><%= replyPages[i].digests[j].body %></div>
+      </div>
+        <% } %>
+      <% } %>
+
+      <form class="reply commentReply">
+        <div class="form-group">
+          <textarea name="reply" placeholder="Reply" class="form-control" /></textarea>
+        </div>
+        <div class="btn-toolbar">
+          <button type="submit" class="btn btn-primary btn-sm" name="go" value="1">Post</button>
+
+          <% if (ws.context.user.id) { %>
+            <% if (monitored) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip active" title="You are monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip" title="You are not monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+            <% if (locked) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip active" title="Replies are not allowed."><i class="fa fa-lock"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip" title="Replies are allowed."><i class="fa fa-lock"></i></button>
+            <% } %>
+          <% } %>
+
+          <i class="fa fa-spinner fa-spin spinner pull-right hidden"></i>
+        </div>
+      </form>
+   </div>
+
+   
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-composer-template">
+<div class="ws-box commentView">
+  <div class="commentComposer">
+    <div class="comment-close">
+      &nbsp;<button type="button" class="close closeme" aria-hidden="true">&times;</button>
+    </div>
+    <div class="commentHeader">
+      <p class="ws-stream-meta command-context">
+        <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+        <a href="#" onclick="return false;"><%= userCreated.username %></a>
+      </p>
+    </div>
+    <div class="commentBody">
+      <textarea name="comment" class="compose form-control" placeholder="Comment"/></textarea><br/>
+      <div class="btn-toolbar">
+        <button type="button" class="btn btn-default btn-sm monitored active pull-right" style="margin-left: 6px" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-eye"></i></button>
+        <button type="button" class="btn btn-default btn-sm locked btn-toggle pull-right" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-lock"></i></button>
+        <button type="button" class="btn btn-primary btn-sm closeme">Save</button>
+      </div>
+    </div>
+  </div>
+
+  
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-proxy-template">
+<div class="comment-proxy">
+  <span class="commentUser">
+  <% if (userCreated) { %>
+    <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+  <% } else { %>
+    <img class="userPicture" src="<%= ws.context.user.imageUrlPrefix %>sm.jpg" width="16" height="16">
+  <% } %>
+  </span>
+  <span class="commentReplies"><%= 1 + _(replyPages).reduce(function(memo, page){ return memo + page.digests.length; }, 0) %></span>
+</div>
+</script>
+
+<div class="ws-menu-bar WikiControls WikispacesContent WikispacesBs3">
+  
+    <h1 class="pageTitle"><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/Thomas+Dougan+%28d.1797%29">Thomas Dougan (d.1797)</a></h1>
+      <div class="btn-group pull-right">
+          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="no discussion posts" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/messages/Thomas+Dougan+%28d.1797%29"><i class="fa fa-comments fa-fw"></i> 0</a>          <a class="btn btn-default tipme" title="view 14 revisions" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/history/Thomas+Dougan+%28d.1797%29"><i class="fa fa-clock-o fa-fw"></i> 14</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/menu/Thomas+Dougan+%28d.1797%29"><i class="icon-height-only fa-fw"></i>&hellip;</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
+              <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/tags/Thomas+Dougan+%28d.1797%29"><span class="pull-right">4</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
+          <div class="dropdown-menu dropdown-menu-right ws-tag-dropdown-menu">
+          
+
+
+
+<form action="#" name="WikiTagForm" class="WikiTagForm">
+  <div class="WikiTagList">
+    <i class="fa fa-tag ws-action"></i>
+        <ul class="list-unstyled">
+                          <li><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content?tag=18thc">18thc</a></li>
+                                <li><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content?tag=dougan">dougan</a></li>
+                                <li><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content?tag=favourite">favourite</a></li>
+                                <li><a href="/web/20141103121228/http://bartonhistory.wikispaces.com/space/content?tag=gx5">gx5</a></li>
+              </ul>
+      </div>
+  </form>      </div>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class=" WikispacesDialogLink" href="https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/wiki/addmonitor?monitorLink=page%3AThomas%20Dougan%20%28d.1797%29"><i class="fa fa-eye fa-fw"></i> Notify</a>
+    </li>
+        <li class=""><a class=" WikispacesDialogLink" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/rss/Thomas+Dougan+%28d.1797%29"><i class="fa fa-rss fa-fw"></i> RSS</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/links/Thomas+Dougan+%28d.1797%29"><i class="fa fa-link fa-fw"></i> Backlinks</a>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class="" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/code/Thomas+Dougan+%28d.1797%29"><i class="fa fa-code fa-fw"></i> Source</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Thomas+Dougan+%28d.1797%29?f=print"><i class="fa fa-print fa-fw"></i> Print</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103121228/http://bartonhistory.wikispaces.com/page/pdf/Thomas+Dougan+%28d.1797%29"><i class="fa fa-cloud-download fa-fw"></i> Export (PDF)</a>
+    </li>
+      </ul>  </div>
+  </div>
+
+
+
+
+  <textarea class="form-control" id="autosaveContent" style="display:none;" rows="1" cols="1"></textarea>
+  <div id="autosavePrompt" style="display:none;"></div>
+
+<div class="commentContainer">
+  <div class="commentSubject">
+  <div class="wiki wikiPage" id="content_view">
+  <ul><li><a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/Living+connections#David%20Barton">DBHB</a>'s great x5 grandfather.</li><li>May be the man who owned a sugar &amp; coffee plantation called 'Profit' in <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/Guyana" rel="nofollow" target="_blank">British Guiana</a>.</li><li>If it <em>is</em> the same man, he was a slave-owner who treated his slaves exceptionally well, according to <a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/%2APinckard+1806">*Pinckard 1806</a> (see below).</li><li>Father of <a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/John+Dougan+%281765-1826%29">John Dougan (1765-1826)</a> who <a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/%2ADougan+1826">devoted his later years to abolishing slavery</a> .</li><li>Died 1797, <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://www.rootsweb.ancestry.com/~nyggbs/Cemeteries.htm" rel="nofollow" target="_blank">possibly buried</a> at <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://www.stgeorges.org.gy/" rel="nofollow" target="_blank">St George's Cathedral, Georgetown, Guyana</a>.</li></ul><br/>
+<br/>
+<!-- ws:start:WikiTextMediaRule:0:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/custom/11981137?h=0&amp;w=0&quot; class=&quot;WikiMedia WikiMediaCustom&quot; id=&quot;wikitext@@media@@type=&amp;quot;custom&amp;quot; key=&amp;quot;11981137&amp;quot;&quot; title=&quot;Custom Media&quot;/&gt; --><iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://web.archive.org/web/20141103121228if_/http://maps.google.co.uk/maps?ie=UTF8&amp;t=m&amp;vpsrc=0&amp;source=embed&amp;ll=6.787353,-58.182564&amp;spn=0.136367,0.274315&amp;z=12&amp;output=embed"></iframe><br/>
+<small><a href="https://web.archive.org/web/20141103121228/http://maps.google.co.uk/maps?ie=UTF8&amp;t=m&amp;vpsrc=0&amp;source=embed&amp;ll=6.787353,-58.182564&amp;spn=0.136367,0.274315&amp;z=12" style="color:#0000FF;text-align:left" rel="nofollow">View Larger Map</a></small><!-- ws:end:WikiTextMediaRule:0 --><br/>
+<br/>
+<br/>
+From <a class="wiki_link" href="/web/20141103121228/http://bartonhistory.wikispaces.com/%2APinckard+1806">*Pinckard 1806</a> pp202-209:<br/>
+<br/>
+<em>&quot;Consistent with the freedom, and impartiality I have always observed in offering you my 'notes,' I am extremely happy to be able to relieve you from this painful scene, by presenting to you one of a very opposite nature — one in which I am sure every feeling of your heart will warmly participate. A party of recently arrived Europeans went by invitation to dine at &quot;Arcadia'-— the plantation of a Mr. Osborn, about eight miles from Stabroek.</em> [Stabroek was renamed <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/Georgetown,_Guyana" rel="nofollow" target="_blank">Georgetown</a> - after <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/George_III_of_the_United_Kingdom" rel="nofollow" target="_blank">King George III</a> - in 1812] <em>Five slaves were sent, with a handsome covered boat to fetch us, in which we had a most pleasant sail, about six miles up the river, and then, coming into a canal, which led to the estate, we were drawn about two miles further, by the negroes running at the side of the canal, singing all the way, and pulling, in merry tune, together.</em> [There is to this day a village called 'Mocha Arcadia', about 5 miles south of Georgetown - as the crow flies - which is surely the location of this plantation.]<br/>
+<br/>
+<em>On our arrival at Mr. Osborn's, we were presented with wine, fruits, and various refreshments; and, afterwards, were amused till dinner-time in viewing the coffee plantation, the negro yard, and the different premises. At dinner we shared all the good things of the colony, and, in the afternoon, were conducted across the canal to visit the estate, and happy home of <strong>Mr. Dougan</strong>, a neighbour whom Mr. Osborn had invited to meet us. — Here we found a rich sugar plantation bordered with coffee and fruits. Leading to the sugar fields, were fine rows of fruit trees, laden with oranges, <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/Pomegranate" rel="nofollow" target="_blank">forbidden fruit</a>, <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/Pomelo" rel="nofollow" target="_blank">shaddocks</a>, and <a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikipedia.org/wiki/Citron" rel="nofollow" target="_blank">citrons</a> -- the shaddocks and forbidden fruit very superior to any I had before tasted, indeed so exquisite, that perhaps I might say they were the finest species of the two finest fruits produced in the whole garden of nature.</em><br/>
+<br/>
+<em>I cannot express to you how much we were gratified — how peculiarly we were delighted with all we saw at this happy abode of Mr. Dougan. The plantation is laid out with much taste, and having every advantage of culture, it exhibits, in high perfection, all the luxuriancy of a rich tropical estate. Utility, pleasure, and convenience, are here most happily combined. A private canal leads through the middle of the grounds, and serves, at once, for ornament and pleasure, as well as for bringing home the copious harvests of coffee and sugar.</em> [Extrapolating from the position of Mocha Arcadia, the location of Dougan's plantation was probably in the region labelled LaGrange in the map above.]<br/>
+<br/>
+<em>At its sides are smooth walks of grass; and between these and the sugar canes are borders planted with all the choice tropical fruits, rendering a promenade upon the water, or its banks, moft fragrant and inviting, and offering to the eye and the palate all the variety of oranges, shaddocks, limes, lemons, cherries, custard apples, cashew apples, avagata pears, grenadilloes, water-lemons, mangoes, and pines. The other walks, which traverse the plantation, are also cool and fragrant avenues of fruit trees.</em><br/>
+<br/>
+<em>But however great the richness, beauty, and fragrance of the estate, its canals, and its walks, still I am sensible that I shall more firmly secure your attachment to it, by mentioning the simple fact that, to slavery, it affords... a happy home!</em><br/>
+<br/>
+<em>I know not whether, upon any occasion, since my departure from England, I have experienced such true and heart-felt pleasure as in witnessing the high degree of comfort and happiness enjoyed by the slaves of 'Profit.' Mr. Dcugan not only grants them many little indulgences, and studies to make them happy, but he generously fosters them with a father's care; and they, sensible of his tenderness towards them, look to their revered master as a kind and affectionate parent; and with undivided—unsophisticated attachment cheerfully devote, to him, their labour and their lives.</em><br/>
+<br/>
+<em>Not satisfied with bestowing upon his slaves mere food and raiment, Mr. Dougan establishes for them a kind of right. He assures to them certain property, endeavors to excite feelings of emulation among them, and to inspire them with a spirit of neatness and order, not commonly known among slaves: and I am happy to add that the effects of his friendly attentions, towards them, are strongly manifested in their persons, their dwellings, and their general demeanour. — Perhaps it were not too much to say, that the negro yard at 'Profit' forms one of the happiest villages within the wide circle of the</em><br/>
+<em>globe! The labouring poor of Europe can attain to no state at all adequate to such slavery, for had they equal comforts, still could they never be equally free from care.</em><br/>
+<br/>
+<em>The slaves of Mr. Dougan are not only fed, and clothed, and tenderly watched in sickness, without any personal thought, or concern, but each has his appropriate spot of ground, and his cottage, in which he feels a right as sacred as if secured to him by all the seals and parchments of the Lord High Chancellor of England, and his court.</em><br/>
+<br/>
+<em>Happy and contented, the slave of 'Profit' sees all his wants supplied. Having never been in a state of freedom, he has no desire for it. Not having known liberty, he feels not the privation of it; nor is it within the powers of his mind either to conceive or comprehend the sense we attach to the term. Were freedom offered to him he would refuse to accept it, and would only view it as a state fraught with certain difficulties and vexations, but offering no commensurate good. &quot;Who gib</em><br/>
+<em>me for gnyhaam Massa,&quot; he asks &quot;if me free?&quot; &quot;Who gib me clothes!&quot; &quot;Who send me doctor when me sick?&quot;</em><br/>
+<br/>
+<em>With industry a slave has no acquaintance, nor has he any knowledge of the kind of comfort and independence which derive</em><br/>
+<em>from it. Ambition has not taught him that, in freedom, he might escape from poverty — nor has he any conception that by improving his intellect he might become of higher importance in the scale of humanity. Thus circumstanced, to remove him from the quiet and contentment of such a bondage, and to place him amidst the tumults and vicissitudes of freedom, were but to impose upon him the exchange of great comparative happiness, for much of positive misery and distress.</em><br/>
+<br/>
+<em>From what has been said you will perceive that to do justice to the merit of Mr. Dougan, would require a far more able pen. His humane and liberal conduct does him infinite honor; while the richness of the estate and the happiness of the slaves loudly proclaim his attentive concern. We were pleased with all around us, but to witness so happy a state of slavery gave us peculiar delight.</em><br/>
+<br/>
+<em>The cottages and little gardens of the negroes exhibited a degree of neatness, and of plenty, that might be envied by free-born Britons, not of the poorest class. The huts of Ireland, Scotland, France, Germany, nay, many, even of England itself, bear no comparison with these. In impulsive delight I ran into many of them, surprizing the slaves with an unexpected visit, and, verily, I say the peasantry of Europe might envy these dwellings of slavery. They mostly consist</em><br/>
+<em>of a comfortable sitting room, and a neat, well-furnished bed room. In one I observed a high bedstead, according to the present European fashion, with deep mattresses, all neatly made up, and covered with a clean white counterpane; the bed-posts, drawers, and chairs bearing the high polish of well-rubbed mahogany. I felt a desire to pillow my head in this hut for the night, it not having fallen to my lot, since I left England, to repose on so inviting a couch. The value of the whole was tenfold augmented by the contented slaves being able to say — &quot;all this we feel to be our own.&quot;</em><br/>
+<br/>
+<em>Too often in regarding the countenance of a slave, it may be observed that</em><br/>
+<br/>
+<em>&quot;Dark melancholy fits, and round her throws</em><br/>
+<em>A death-like silence, and a dread repose.&quot;</em> [slightly misquoted from Alexander Pope's &quot;<a class="wiki_link_ext" href="https://web.archive.org/web/20141103121228/http://en.wikisource.org/wiki/Eloisa_to_Abelard" rel="nofollow" target="_blank">Eloisa to Abelard</a>&quot;]<br/>
+<br/>
+<em>but throughout Mr. Dougan's happy gang the more striking features are those of mirth and glee; for, here, the merry dance and jovial song prevail, and all are votaries to joy and harmony.</em><br/>
+<br/>
+<em>Before the doors of the huts, and around these peaceful dwellings were seen great numbers of pigs, and poultry, which the slaves are allowed to raise for their own profit; and from the flock, thus bred in the negro yard, the master usually purchases the provisions of his table, paying to the negroes the common price for which they would sell at the market.</em><br/>
+<br/>
+<em>The conduct of Mr. Osborn to his slaves, and, indeed, of many others I might mention, is also very highly commendable. The negroes at Arcadia have much cause of contentment; their happiness and welfare being guarded with a parental care. Were</em><br/>
+<em>all masters kind and humane as Mr. Dougan, and his neighbour, slavery might have few enemies; and the peasants of Europe, amidst their boasted freedom, might sigh, in vain, for the happiness enjoyed by slaves!&quot;</em>
+  </div>
+
+<div id="pageEditor" class="editorWrapper editorLayer">
+  <iframe id="target_editor" name="target_editor" src="/web/20141103121228if_/http://bartonhistory.wikispaces.com/s/blank.html" style="width:0px;height:0px;border:0"></iframe>
+    <form action="/web/20141103121228/http://bartonhistory.wikispaces.com/page/edit/Thomas+Dougan+%28d.1797%29" method="post" class="editorForm" id="editorForm">
+    <input type="hidden" title="goto" name="goto" value=""/>
+    <input type="hidden" title="mode" name="mode" autocomplete="off" value="visual"/>
+    <input type="hidden" title="version" name="version" autocomplete="off" value="289202003"/>
+    <input type="hidden" title="pageComments" name="pageComments" autocomplete="off" value=""/>
+    <input type="hidden" title="saveAndContinue" name="saveAndContinue" value="0"/>
+    <input type="hidden" title="comment" name="comment" value=""/>
+    <input type="hidden" title="commentsDisabled" name="commentsDisabled" autocomplete="off" value=""/>
+    <input type="hidden" title="contentPresent" name="contentPresent" autocomplete="off" value=""/>
+    <input type="hidden" title="editorCleanup" name="editorCleanup" autocomplete="off" value=""/>
+
+    <textarea id="wsMainEditor" title="content" class="noContentHide" name="WikispacesEditorContent" style="width: 100%; position: absolute; top: -50000px; left: -50000px;" autocomplete="off"></textarea>
+
+  <noscript>
+    <h2>Javascript Required</h2>
+    <p>You need to enable Javascript in your browser to edit pages.</p>
+  </noscript>
+
+  </form>
+  
+  
+  <div id="plainTextEditor" style="position:relative;display:none" class="editorLayer">
+    <textarea id="textEditor" class="autogrow"></textarea>
+    <p style="clear:both;" align="right"><a href="https://web.archive.org/web/20141103121228/http://help.wikispaces.com/help.wikitext" class="js-help-link" data-help="help.wikitext">help on how to format text</a></p>
+  </div>
+</div>
+
+
+
+
+  </div>
+  <div class="commentColumn WikispacesStream"><div class="WikispacesContent WikispacesBs3"><div class="commentList"></div></div></div>
+</div>
+
+</div></div><div id="sentinel" style="clear:both"></div>        </div>
+      </main>
+    </div>
+  </div>
+</div>
+
+<footer class="ws-theme-footer" role="contentinfo">
+  <div class="ws-theme-container">
+    <div class="ws-theme-footer-inner">
+      <div class="WikiFooterNav WikiElement">
+<a href="https://web.archive.org/web/20141103121228/http://help.wikispaces.com/" rel="nofollow" class="js-help-trigger">Help</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/about">About</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://blog.wikispaces.com/" target="_new">Blog</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/privacy" rel="nofollow">Privacy</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/terms" rel="nofollow">Terms</a> &middot;
+<a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/help?url=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529" rel="nofollow"><strong>Support</strong></a></div>      <div class="WikiLicense WikiElement">Contributions to http://bartonhistory.wikispaces.com/ are licensed under a <a rel="license" href="https://web.archive.org/web/20141103121228/http://www.creativecommons.org/licenses/by-nc-sa/3.0">Creative Commons Attribution Share-Alike Non-Commercial 3.0 License</a>. <a rel="license" href="https://web.archive.org/web/20141103121228/http://www.creativecommons.org/licenses/by-nc-sa/3.0"><img src="https://web.archive.org/web/20141103121228im_/http://www.wikispaces.com/i/creativecommons/by-nc-sa_3.0_80x15.png" width="85" height="15" alt="Creative Commons Attribution Share-Alike Non-Commercial 3.0 License"/></a><br/>Portions not contributed by visitors are Copyright 2014 Tangient LLC</div>    </div>
+  </div>
+</footer>
+
+<div id="js-help-template" class="hidden">
+  <div class="ws-help">
+    <div class="js-help-controls WikispacesContent WikispacesBs3">
+      <a href="https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
+      <ol class="breadcrumb">
+        <li class="js-special-breadcrumb active">
+          <a href="https://web.archive.org/web/20141103121228/http://help.wikispaces.com/" data-breadcrumb="0">Home</a>
+        </li>
+        <li class="js-ellipsis hidden js-special-breadcrumb">
+          ...
+        </li>
+        <li class="js-spinner hidden js-special-breadcrumb"><i class="fa fa-spinner fa-spin"></i></li>
+      </ol>
+    </div>
+    <div class="ws-help-content wiki">Loading...</div>
+  </div>
+</div>
+</div>
+<script src="https://web.archive.org/web/20141103121228js_/http://www.wikispaces.com/s/nogz/3q4qjv75-editorc.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+ws.namespace('ws.attributes');
+ws.namespace('ws.stream');
+ws.attributes.version = 289202003;
+ws.attributes.showEditor = true;
+ws.attributes.editUrl = "https:\/\/web.archive.org\/web\/20141103121228\/http:\/\/bartonhistory.wikispaces.com\/page\/edit\/Thomas+Dougan+%28d.1797%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529";
+ws.attributes.userCanEdit = false;
+ws.stream.userCanPostMessage = false;
+ws.stream.hideTimeline = true;
+ws.stream.shareSource = "https:\/\/web.archive.org\/web\/20141103121228\/http:\/\/bartonhistory.wikispaces.com\/page\/shares\/Thomas+Dougan+%28d.1797%29";
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20141103121228/https://ssl' : 'https://web.archive.org/web/20141103121228/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+jQuery(document).ready(function() {
+  ws.common.addJsonNotices({"warning":[],"error":[],"info":[],"success":[]});
+});
+
+jQuery(document).ready(function($) {
+  
+  function tipPlacement() {
+    return this.$element.closest('.ws-menu-bar .btn-group').is('.open') ? 'top' : 'bottom';
+  }
+
+  
+
+  $('.ws-menu-bar').each(function() {
+    var $menuBar = $(this);
+    var $tagDropdown = $menuBar.find('.ws-tag-dropdown-menu');
+    $menuBar.find('.tipme').tooltip({placement: tipPlacement, container: '.ws-menu-bar'});
+
+    
+    $menuBar.find('.ws-btn-more').click(ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .btn-group').is('.open')) {
+        ws.common.hideMorePageBar();
+      } else {
+        ws.common.showMorePageBar();
+      }
+    }));
+
+    $menuBar.on('click', '.ws-tag-dropdown-toggle', ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .dropdown').is('.open')) {
+        ws.common.hideTagDropdown();
+      } else {
+        ws.common.showTagDropdown();
+      }
+    }));
+
+    $(document.body).click(function(e) {
+      var $target = $(e.target);
+      if (!$target.closest('.ws-more-menu').closest('.ws-menu-bar').is($menuBar)
+          || $target.closest('a').is('.WikispacesDialogLink')) {
+        ws.common.hideMorePageBar();
+      }
+      if ($tagDropdown.length && !$target.closest('.ws-tag-dropdown-menu').is($tagDropdown)) {
+        ws.common.hideTagDropdown();
+      }
+    });
+    
+  });
+});
+
+
+jQuery(document).ready(function($) {
+  $('.ws-more-menu').on('click', 'a', function(e) {
+    if ($(this).is('.disabled')) {
+      e.preventDefault();
+    }
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.canEdit = false;
+  var editUrl = 'https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/page/edit/Thomas+Dougan+%28d.1797%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FThomas%2BDougan%2B%2528d.1797%2529';
+
+  jQuery('#js-edit-from-template').change(function() {
+    window.location = ws.common.addUriParams(editUrl, [['template', jQuery(this).val()]]);
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.loadEditorLibs('https://web.archive.org/web/20141103121228/http://www.wikispaces.com/site/editorlibs/en/j562054q.js');
+});
+
+
+ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
+  ws.editor.canEdit = true;
+
+  var coreOptions = {
+    'content_css': ['https://web.archive.org/web/20141103121228/http://www.wikispaces.com/stylesheet/editori/217420326D.css']
+  };
+
+  // The stylesheet is passed in as a string, turn it into an array
+  // Add bootstrap styles to the editor, if we are in a theme that has full screen bootstrap
+  if (jQuery('body').is('.WikispacesBs3')) {
+    coreOptions.content_css.push('https://web.archive.org/web/20141103121228/http://www.wikispaces.com//s/internal-bootstrap-body.css');
+  }
+
+  var mainOptions = {
+    'wssave_cancel_url': '/Thomas+Dougan+%28d.1797%29',
+    'wsimage_upload_url': 'https://web.archive.org/web/20141103121228/http://bartonhistory.wikispaces.com/file/multiupload',
+    'wsimage_max_file_size_mb': '20',
+    'wsimage_page_view_group': ''
+  };
+
+  ws.editor.loadEditor(jQuery.extend(coreOptions, moreCoreOptions), jQuery.extend(mainOptions, moreMainOptions));
+};
+
+  var wikispaces_page_version = '289202003';
+
+  jQuery(document).ready(function() {
+    ws.editor.enableButtons();
+  });
+
+
+
+--></script><!-- w5 309 wki:116:118(2) mem:4:40(27) dql:29:37(3) tot:309:309(1) -->
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 12:12:28 Nov 03, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:43:27 Apr 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.624
+  exclusion.robots: 0.064
+  exclusion.robots.policy: 0.051
+  esindex: 0.011
+  cdx.remote: 106.058
+  LoadShardBlock: 61.863 (3)
+  PetaboxLoader3.datanode: 80.37 (4)
+  load_resource: 263.301
+  PetaboxLoader3.resolve: 214.796
+-->

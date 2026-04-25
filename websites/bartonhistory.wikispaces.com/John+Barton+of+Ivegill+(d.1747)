@@ -1,0 +1,1064 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://bartonhistory.wikispaces.com:80/John+Barton+of+Ivegill+%28d.1747%29","20141103040335","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1414987415");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="search" href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/space/opensearch" type="application/opensearchdescription+xml" title="Wikispaces Search (BartonHistory Wiki)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit This Page" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/edit/John+Barton+of+Ivegill+%28d.1747%29"/>
+<link rel="alternate" title="BartonHistory - All Changes" href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/xmla?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : John Barton of Ivegill (d.1747) - Discussion" href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/message/xml/John+Barton+of+Ivegill+%28d.1747%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="alternate" title="bartonhistory : John Barton of Ivegill (d.1747) - Edits" href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/page/xml/John+Barton+of+Ivegill+%28d.1747%29?v=rss_2_0" type="application/rss+xml"/>
+<link rel="microsummary" href="/page/microsummary/John+Barton+of+Ivegill+%28d.1747%29/edits"/>
+<link rel="microsummary" href="/page/microsummary/John+Barton+of+Ivegill+%28d.1747%29/messages"/>
+<script type="text/javascript">
+  
+if (typeof ws === 'undefined') ws = {};
+if (typeof ws.context === 'undefined') ws.context = {};
+ws.context = {
+  instance: {
+    id: '1',
+    url: 'wikispaces.com',
+    isMain: true,
+    supportsGoogleDocs: false
+  },
+  user: {
+    id: '',
+    username: '',
+    status: '',
+    locale: 'en',
+    imageUrlPrefix: 'https://web.archive.org/web/20141103040335/http://www.wikispaces.com/i/user_none_',
+    pagesVisited: null,
+  },
+  wiki: {
+    id: '4761411',
+    name: 'bartonhistory',
+    text: 'BartonHistory',
+    module: 'B',
+    isClassroom: false,
+    isTesClassroom: false
+    ,defaultSpaceId: 4761411
+  },
+  project: {
+    id: '4761411',
+    name: ''
+  },
+  space: {
+    id: '4761411',
+    name: 'bartonhistory',
+    isDefaultSpace: true
+  },
+
+  environment_name: 'prod',
+  userCanAdministerWiki: false,
+
+  path: {
+    object: 'page',
+    method: 'view',
+    page: 'John Barton of Ivegill (d.1747)',
+    id: ''
+  },
+
+  settings: {
+    main_domain: 'wikispaces.com',
+    asset_url_prefix: 'https://web.archive.org/web/20141103040335/http://www.wikispaces.com',
+    beta_features: false,
+    isMobileSite: false,
+    isUploadCapable: true,
+    can_discuss: false,
+    has_gdocs: false,
+    isDialog: false,
+    pwin: ''
+  },
+  clockSkewMillis: 1414987414799 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+}
+
+
+// legacy javascript API variables, use the above instead
+var wikispaces_isUserLoggedIn = !!ws.context.user.id;
+var wikispaces_isMain = ws.context.instance.isMain;
+var wikispaces_username = ws.context.user.username;
+var wikispaces_spaceName = ws.context.space.name;
+var wikispaces_projectName = ws.context.project.name;
+var wikispaces_wikiName = ws.context.wiki.name;
+var wikispaces_wikiText = ws.context.wiki.text;
+var wikispaces_isDefaultSpace = ws.context.space.isDefaultSpace;
+var wikispaces_method = ws.context.path.method;
+var wikispaces_object = ws.context.path.object;
+var wikispaces_page = ws.context.path.page;
+var wikispaces_id = ws.context.path.id;
+var wikispaces_domain = ws.context.instance.url;
+var wikispaces_isUserOrganizer = false;
+var wikispaces_main_domain = ws.context.settings.asset_url_prefix;
+var wikispaces_asset_url_prefix = ws.context.settings.asset_url_prefix;
+var wikispaces_beta_features = ws.context.settings.beta_features;
+var wikispaces_isMobileSite = ws.context.settings.isMobileSite;
+var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
+var wikispaces_can_discuss = ws.context.settings.can_discuss;
+var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
+
+</script>
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+<title>BartonHistory - John Barton of Ivegill (d.1747)</title>
+<meta charset="utf-8"/>
+<link rel="apple-touch-icon" sizes="144x144" href="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/_/z6371z4x/i/logo-144.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/_/j5j77xz3/i/logo-114.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/_/vq8j5432/i/logo-72.png"/>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/_/38515190/i/logo-57.png"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/_/55v9k02z/i/logo-16.png"/>
+<style type="text/css">
+/* Standard theme styles */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+.ws-theme-header-inner,
+.ws-theme-body-inner,
+.ws-theme-footer-inner,
+.ws-theme-content-inner,
+.ws-theme-sidebar-inner {
+  position: relative;
+}
+.ws-theme-header-inner:after,
+.ws-theme-body-inner:after,
+.ws-theme-footer-inner:after,
+.ws-theme-content-inner:after,
+.ws-theme-sidebar-inner:after,
+.ws-theme-menu-inner:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: auto;
+}
+.ws-theme-footer {
+  text-align: right;
+}
+.ws-theme-footer a, .ws-theme-footer a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ws-theme-content {
+    width: 550px;
+    min-height: 384px;
+    float: right;
+  }
+  .ws-theme-sidebar {
+    width: 200px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .ws-theme-container {
+    width: 970px;
+  }
+  .ws-theme-content {
+    width: 770px;
+    min-height: 496px;
+  }
+}
+@media (min-width: 1200px) {
+  .ws-theme-container {
+    width: 1170px;
+  }
+  .ws-theme-content {
+    width: 970px;
+    min-height: 600px;
+  }
+}
+/* End standard theme styles */
+</style>
+<style type="text/css">
+/* Theme-specific styles */
+body {
+  background-color: #DEDEDE;
+}
+
+.ws-theme-container {
+  margin: 0 5px;
+  width: auto;
+}
+
+.ws-theme-header .WikiSearch .WikiSearchInput,
+.ws-theme-sidebar .WikiSearch .WikiSearchInput,
+.ws-theme-footer .WikiSearch .WikiSearchInput {
+  width: 100%;
+}
+
+.ws-theme-header a,
+.ws-theme-header a:hover,
+.ws-theme-sidebar a,
+.ws-theme-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+.ws-theme-sidebar a:hover,
+.ws-theme-footer a:hover {
+  text-decoration: underline;
+}
+.ws-theme-header img,
+.ws-theme-sidebar img,
+.ws-theme-footer img {
+  border: none;
+}
+
+.ws-theme-content,
+.ws-theme-sidebar {
+  overflow-x: visible;
+}
+
+.ws-theme-header-inner,
+.ws-theme-content-inner,
+.ws-theme-menu-inner,
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.ws-theme-header,
+.ws-theme-sidebar {
+  display: none;
+}
+
+.ws-theme-header,
+.ws-theme-footer {
+  color: #FFF;
+}
+
+.ws-theme-header-inner,
+.ws-theme-footer-inner {
+  background-color: #000000;
+}
+
+.ws-theme-body-inner {
+  padding: 7px 0;
+}
+
+.ws-theme-content-inner {
+  background-color: #FFF;
+}
+
+.ws-theme-footer {
+  text-align: left;
+}
+.ws-theme-footer-inner {
+  padding: 15px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.ws-theme-footer .WikiLicense img {
+  vertical-align: text-bottom;
+}
+
+@media (min-width: 768px) {
+  .ws-theme-container {
+    margin: 0 10px;
+    width: auto;
+  }
+
+  .ws-theme-header,
+  .ws-theme-sidebar {
+    display: block;
+  }
+
+  .ws-theme-header-inner {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+
+  .ws-theme-body-inner {
+    padding: 15px 0;
+  }
+
+  .ws-theme-content {
+    width: auto;
+    margin-left: 200px;
+    padding-left: 15px;
+    float: none;
+  }
+  .ws-theme-content-inner {
+    float: left;
+    width: 100%;
+  }
+
+  .ws-theme-sidebar {
+    margin-top: -15px;
+    color: #000000;
+  }
+  .ws-theme-sidebar .ws-theme-menu {
+    margin-top: 15px;
+  }
+  .ws-theme-sidebar .ws-theme-menu-inner {
+    padding: 10px;
+    background-color: #333333;
+  }
+  .ws-theme-sidebar .WikiActions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .ws-theme-sidebar .WikiActions > li {
+    padding: 2px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol {
+    padding-left: 16px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol.includePageList {
+    padding-left: 0;
+  }
+  .ws-theme-sidebar .WikispacesNavbar {
+    margin: 0 -10px;
+    padding: 0 10px;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit {
+    color: #666;
+    text-align: center;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit a {
+    color: inherit;
+  }
+}
+/* End theme-specific styles */
+</style>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103040335cs_/http://www.wikispaces.com/stylesheet/viewi/217420326D.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103040335cs_/http://www.wikispaces.com/s/nogz/6zx423j5-internal-bootstrap.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20141103040335cs_/http://www.wikispaces.com/s/nogz/84504604-internal.css" type="text/css"/>
+<script src="https://web.archive.org/web/20141103040335js_/http://www.wikispaces.com/s/nogz/v9z75x0v-common.min.js" type="text/javascript"></script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//web.archive.org/web/20141103040335/http://cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4befd1d5600e4becd938beae1be02db5");</script><!-- end Mixpanel -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+  var wsGoogleAccount = 'UA-80504-1';
+  _gaq.push(['_setAccount', wsGoogleAccount]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'wikispaces.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+</script></head>
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder"><div class="WikispacesContent WikispacesBs3" role="banner">
+      
+    <div class="ws-main-top-nav visible-xs">
+    <div class="navbar navbar-static-top" style="margin-bottom: 0;">
+      <div class="container">
+                <div class="navbar-header">
+          <div class="visible-xs pull-left">
+            <a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/menu" class="WikispacesDialogLink btn navbar-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+          <div class="visible-xs pull-right js-globalnav-popover-container">
+                        <a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+              guest
+            </a>
+                        <div class="hidden js-globalnav-popover-content">
+              <div class="WikispacesContent WikispacesBs3">
+                <div class="WikiInternalHeaderNav noHide">
+  <div class="WikiInternalHeaderNavMenu">
+                          
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103040335/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div>              </div>
+            </div>
+          </div>
+          <div class="ws-navbar-middle-xs">
+            <div class="navbar-brand" role="navigation">
+              <a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/" class="ws-logo"></a>
+              <i class="fa fa-angle-right"></i>
+              <a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/">BartonHistory</a>
+                              <i class="fa fa-angle-right"></i> <a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/home">Home</a>
+              
+            </div>
+          </div>
+                    <form action="/web/20141103040335/http://bartonhistory.wikispaces.com/search/view" method="post" class="navbar-form ws-include-xs pull-left ws-navbar-search hidden-xs" role="search"><input type="text" class="form-control search-query" name="q" value="" placeholder="Search"/> </form>
+                  </div>
+      </div>
+    </div>
+  </div>
+      <div class="hidden-xs"><div class="WikiInternalHeaderNav WikiElement floating">
+  <div class="WikiInternalHeaderNavMenu">
+                                    <span class="WikiInternalHeaderNavMenuArea guestUserName">guest</span><span class="slideMarker divider">|</span>
+        
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/user/join?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="https://web.archive.org/web/20141103040335/http://help.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div></div>
+  </div></div><div id="js-fixed-header-offset">
+<header class="ws-theme-header" role="banner">
+  <div class="ws-theme-container">
+    <div class="ws-theme-header-inner">
+      <a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/" class="WikiLogo WikiElement"><img src="https://web.archive.org/web/20141103040335im_/http://bartonhistory.wikispaces.com/space/showlogo/1414750174/logo.png" alt="BartonHistory"/></a>    </div>
+  </div>
+</header>
+
+<div class="ws-theme-body">
+  <div class="ws-theme-container">
+    <div class="ws-theme-body-inner">
+      <nav class="ws-theme-sidebar" role="navigation">
+        <div class="ws-theme-sidebar-inner">
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <ul class="WikiActions WikiElement WikiControls">
+    <li id="WikiActionHome"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/"><i class="fa fa-home fa-fw"></i></a><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/">Wiki Home</a></div></li>
+    <li id="WikiActionChanges"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/changes"><i class="fa fa-clock-o fa-fw"></i></a><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/changes">Recent Changes</a></div></li>
+    <li id="WikiActionPagesAndFiles"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content"><i class="fa fa-file-text-o fa-fw"></i></a><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content">Pages and Files</a></div></li>
+    <li id="WikiActionMembers"><div class="js-member-link"><span class="WikiActionSupplemental" style="float: right;"></span><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/members"><i class="fa fa-user fa-fw"></i></a><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/members">Members</a></div></li>
+</ul>
+              <form action="/web/20141103040335/http://bartonhistory.wikispaces.com/search/view" method="post" class="WikiSearch WikiElement" role="search"><input type="text" class="form-control WikiSearchInput" name="q" value="" placeholder="Search"/> </form>            </div>
+          </div>
+          <div class="ws-theme-menu">
+            <div class="ws-theme-menu-inner">
+              <div class="WikiCustomNav WikiElement wiki"><span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Home">Home</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/The+Barton+name">The Barton name</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Royal+ancestry">Royal ancestry</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Famous+connections">Famous connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Living+connections">Living connections</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Coats+of+Arms">Coats of arms</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/DNA">DNA</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Mysteries">Mysteries</a></span><br/>
+<span style="color: #808080;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/To+Do+list">To Do list</a></span><br/>
+<span style="color: #c0c0c0; cursor: pointer;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Living+connections">Contact me</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/People">All people</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Places">All places</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Objects">All objects</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Sources">All sources</a></span><br/>
+<span style="color: #c0c0c0;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Contents">All pages</a></span><br/>
+<br/>
+<span style="color: #c0c0c0;"><u>SELECTED PAGES</u></span><br/>
+<span style="color: #c0c0c0;"><!-- ws:start:WikiTextIncludeRule:00:&lt;img src=&quot;http://www.wikispaces.com/site/embedthumbnail/include/pageList?w=200&amp;h=100&quot; class=&quot;WikiMedia WikiMediaInclude&quot; id=&quot;wikitext@@include@@component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; title=&quot;Include pageList: component=&amp;quot;pageList&amp;quot; hideInternal=&amp;quot;true&amp;quot; tag=&amp;quot;favourite&amp;quot; limit=&amp;quot;40&amp;quot;&quot; /&gt; --><div class="includeBody"><ol class="includePageList">
+              <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ABernard+Barton+the+Quaker+Poet+Correspondence" class="includePageListPageUrl">*Bernard Barton the Quaker Poet Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ABilly+Barton+Diary+and+Letters" class="includePageListPageUrl">*Billy Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ABroadbent+1976" class="includePageListPageUrl">*Broadbent 1976</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ACecil+Barton+Mountaineering+Journals" class="includePageListPageUrl">*Cecil Barton Mountaineering Journals</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ADougan+1826" class="includePageListPageUrl">*Dougan 1826</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2AEmily+Dougan%27s+1856+Sketchbook" class="includePageListPageUrl">*Emily Dougan&#039;s 1856 Sketchbook</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2AJohn+Barton+the+Elder+Correspondence" class="includePageListPageUrl">*John Barton the Elder Correspondence</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2AMemoirs+of+Emily+Elliott" class="includePageListPageUrl">*Memoirs of Emily Elliott</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2AMemoirs+of+John+Barton" class="includePageListPageUrl">*Memoirs of John Barton</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ANicolson+et+al+1777" class="includePageListPageUrl">*Nicolson et al 1777</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/%2ARonald+Barton+Diary+and+Letters" class="includePageListPageUrl">*Ronald Barton Diary and Letters</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29" class="includePageListPageUrl">Ann (d.1748)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Barton+%28hamlet+%26+parish%29" class="includePageListPageUrl">Barton (hamlet &amp; parish)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29" class="includePageListPageUrl">Bernard Barton of Carlisle (1728-1773)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+the+Quaker+poet+%281784-1849%29" class="includePageListPageUrl">Bernard Barton the Quaker poet (1784-1849)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Charles+Elliott+%281776-1856%29" class="includePageListPageUrl">Charles Elliott (1776-1856)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Charles+Elliott+the+cabinet-maker+%281752-1832%29" class="includePageListPageUrl">Charles Elliott the cabinet-maker (1752-1832)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Chateau+Castelnau" class="includePageListPageUrl">Chateau Castelnau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Col.+John+Edward+Broadbent+%281845-1931%29" class="includePageListPageUrl">Col. John Edward Broadbent (1845-1931)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Emily+Elliott+%281839-1924%29" class="includePageListPageUrl">Emily Elliott (1839-1924)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Esther+Broadbent+%281873-1959%29" class="includePageListPageUrl">Esther Broadbent (1873-1959)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Etienne+Boileau" class="includePageListPageUrl">Etienne Boileau</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/High+Head+Chapel" class="includePageListPageUrl">High Head Chapel</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Ive+Bank%2C+Ivegill" class="includePageListPageUrl">Ive Bank, Ivegill</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29" class="includePageListPageUrl">John Barton (d.1720)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+of+Ivegill+%28d.1747%29" class="includePageListPageUrl">John Barton of Ivegill (d.1747)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+Senior+%281789-1852%29" class="includePageListPageUrl">John Barton Senior (1789-1852)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+the+Elder+%281754-1789%29" class="includePageListPageUrl">John Barton the Elder (1754-1789)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/John+Dougan+%281765-1826%29" class="includePageListPageUrl">John Dougan (1765-1826)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Ormside+Hall" class="includePageListPageUrl">Ormside Hall</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Parishes+of+Cumberland+and+Westmorland" class="includePageListPageUrl">Parishes of Cumberland and Westmorland</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Rev.+Cecil+Barton+%281870-1909%29" class="includePageListPageUrl">Rev. Cecil Barton (1870-1909)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Rev.+Charles+Boileau+Elliott+%281803-1875%29" class="includePageListPageUrl">Rev. Charles Boileau Elliott (1803-1875)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Rev.+John+Barton+of+Cambridge+%281836-1908%29" class="includePageListPageUrl">Rev. John Barton of Cambridge (1836-1908)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Ronald+Barton+%281901-1986%29" class="includePageListPageUrl">Ronald Barton (1901-1986)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Shimla%2C+India" class="includePageListPageUrl">Shimla, India</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Solomon+Boileau+%281745-1810%29" class="includePageListPageUrl">Solomon Boileau (1745-1810)</a></li>
+                  <li class="includePageListPage"><a href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/Thomas+Dougan+%28d.1797%29" class="includePageListPageUrl">Thomas Dougan (d.1797)</a></li>
+      </ol></div><!-- ws:end:WikiTextIncludeRule:00 --> </span><br/>
+<br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Editors+FAQ">Editors FAQ</a></span><br/>
+<span style="color: #909090;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Online+resources">Online resources</a></span></div>              <div class="ws-theme-nav-edit">
+                              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main class="ws-theme-content" role="main">
+        <div class="ws-theme-content-inner">
+          <div class="contentBox"><div class="innerContentBox" id="WikiContent">
+
+<script type="text/template" id="comment-footer-template">
+
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</script>
+
+<script type="text/template" id="comment-content-template">
+<div class="ws-box commentView">
+  <div class="comment-close">
+    <button type="button" class="closeme close" aria-hidden="true">&times;</button>
+  </div>
+  <div class="commentHeader">
+    <p class="ws-stream-meta command-context">
+      <a class="userLink userLinkPicture" href="<%= userCreated.url %>"><img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16"></a>
+      <a href="<%= userCreated.url %>"><%= userCreated.username %></a>
+      <% if (smartDate == '__live__') { %>
+      <abbr class="timeago" title="<%= (new Date(parseInt(dateCreated, 10) * 1000)).toISOString() %>">
+        <%= dateCreated %>
+      </abbr>
+      <% } else { %>
+        <%- smartDate %>
+      <% } %>
+      <% if (ws.context.userCanAdministerWiki) { %>
+        <i class="fa fa-trash-o contextual-command delete ws-tip" title="Delete Comment"></i>
+      <% } %>
+    </p>
+  </div>
+
+  <div class="commentBody">
+    <div class="commentContent">
+      <%= description %>
+    </div>
+
+      <% for(i = 0; i < replyPages.length; i++) { %>
+        <% for(var j = 0; j < replyPages[i].digests.length; j++) { %>
+      <div class="commentReply" data-id="<%= replyPages[i].digests[j].id %>">
+        <p class="ws-stream-meta command-context">
+          <a class="userLink userLinkPicture" href="<%= replyPages[i].digests[j].userCreated.url %>"><img class="userPicture" src="<%= replyPages[i].digests[j].userCreated.imageUrl %>" width="16" height="16"></a>
+          <a href="<%= replyPages[i].digests[j].userCreated.url %>"><%= replyPages[i].digests[j].userCreated.username %></a>
+          <% if (smartDate == '__live__') { %>
+          <abbr class="timeago" title="<%= (new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000)).toISOString() %>">
+            <%= new Date(parseInt(replyPages[i].digests[j].dateCreated, 10) * 1000).toLocaleString() %>
+          </abbr>
+          <% } else { %>
+            <%- smartDate %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+          <i class="fa fa-trash-o contextual-command delete-reply ws-tip" title="Delete Reply"></i>
+          <% } %>
+          </p>
+        <div class="commentContent"><%= replyPages[i].digests[j].body %></div>
+      </div>
+        <% } %>
+      <% } %>
+
+      <form class="reply commentReply">
+        <div class="form-group">
+          <textarea name="reply" placeholder="Reply" class="form-control" /></textarea>
+        </div>
+        <div class="btn-toolbar">
+          <button type="submit" class="btn btn-primary btn-sm" name="go" value="1">Post</button>
+
+          <% if (ws.context.user.id) { %>
+            <% if (monitored) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip active" title="You are monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip" title="You are not monitoring replies."><i class="fa fa-eye"></i></button>
+            <% } %>
+          <% } %>
+          <% if (ws.context.userCanAdministerWiki) { %>
+            <% if (locked) { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip active" title="Replies are not allowed."><i class="fa fa-lock"></i></button>
+            <% } else { %>
+            <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip" title="Replies are allowed."><i class="fa fa-lock"></i></button>
+            <% } %>
+          <% } %>
+
+          <i class="fa fa-spinner fa-spin spinner pull-right hidden"></i>
+        </div>
+      </form>
+   </div>
+
+   
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-composer-template">
+<div class="ws-box commentView">
+  <div class="commentComposer">
+    <div class="comment-close">
+      &nbsp;<button type="button" class="close closeme" aria-hidden="true">&times;</button>
+    </div>
+    <div class="commentHeader">
+      <p class="ws-stream-meta command-context">
+        <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+        <a href="#" onclick="return false;"><%= userCreated.username %></a>
+      </p>
+    </div>
+    <div class="commentBody">
+      <textarea name="comment" class="compose form-control" placeholder="Comment"/></textarea><br/>
+      <div class="btn-toolbar">
+        <button type="button" class="btn btn-default btn-sm monitored active pull-right" style="margin-left: 6px" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-eye"></i></button>
+        <button type="button" class="btn btn-default btn-sm locked btn-toggle pull-right" onclick="jQuery(this).toggleClass('active')"><i class="fa fa-lock"></i></button>
+        <button type="button" class="btn btn-primary btn-sm closeme">Save</button>
+      </div>
+    </div>
+  </div>
+
+  
+<div class="commentFooter modal-footer">
+  <div class="pull-left">
+    <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
+    <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
+  </div>
+  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <div class="pull-right">
+    <button type="button" class="btn btn-default btn-sm remove">Remove</button>
+  </div>
+  <% } %>
+</div>
+
+</div>
+</script>
+
+<script type="text/template" id="comment-proxy-template">
+<div class="comment-proxy">
+  <span class="commentUser">
+  <% if (userCreated) { %>
+    <img class="userPicture" src="<%= userCreated.imageUrl %>" width="16" height="16">
+  <% } else { %>
+    <img class="userPicture" src="<%= ws.context.user.imageUrlPrefix %>sm.jpg" width="16" height="16">
+  <% } %>
+  </span>
+  <span class="commentReplies"><%= 1 + _(replyPages).reduce(function(memo, page){ return memo + page.digests.length; }, 0) %></span>
+</div>
+</script>
+
+<div class="ws-menu-bar WikiControls WikispacesContent WikispacesBs3">
+  
+    <h1 class="pageTitle"><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+of+Ivegill+%28d.1747%29">John Barton of Ivegill (d.1747)</a></h1>
+      <div class="btn-group pull-right">
+          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="no discussion posts" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/messages/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-comments fa-fw"></i> 0</a>          <a class="btn btn-default tipme" title="view 55 revisions" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/history/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-clock-o fa-fw"></i> 55</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/menu/John+Barton+of+Ivegill+%28d.1747%29"><i class="icon-height-only fa-fw"></i>&hellip;</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
+              <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/tags/John+Barton+of+Ivegill+%28d.1747%29"><span class="pull-right">7</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
+          <div class="dropdown-menu dropdown-menu-right ws-tag-dropdown-menu">
+          
+
+
+
+<form action="#" name="WikiTagForm" class="WikiTagForm">
+  <div class="WikiTagList">
+    <i class="fa fa-tag ws-action"></i>
+        <ul class="list-unstyled">
+                          <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=18thc">18thc</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=barton">barton</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=cumbria">cumbria</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=favourite">favourite</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=gx6">gx6</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=john">john</a></li>
+                                <li><a href="/web/20141103040335/http://bartonhistory.wikispaces.com/space/content?tag=people">people</a></li>
+              </ul>
+      </div>
+  </form>      </div>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class=" WikispacesDialogLink" href="https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/wiki/addmonitor?monitorLink=page%3AJohn%20Barton%20of%20Ivegill%20%28d.1747%29"><i class="fa fa-eye fa-fw"></i> Notify</a>
+    </li>
+        <li class=""><a class=" WikispacesDialogLink" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/rss/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-rss fa-fw"></i> RSS</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/links/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-link fa-fw"></i> Backlinks</a>
+    </li>
+              <li class="divider"></li>
+            <li class=""><a class="" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/code/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-code fa-fw"></i> Source</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+of+Ivegill+%28d.1747%29?f=print"><i class="fa fa-print fa-fw"></i> Print</a>
+    </li>
+        <li class=""><a class="" href="/web/20141103040335/http://bartonhistory.wikispaces.com/page/pdf/John+Barton+of+Ivegill+%28d.1747%29"><i class="fa fa-cloud-download fa-fw"></i> Export (PDF)</a>
+    </li>
+      </ul>  </div>
+  </div>
+
+
+
+
+  <textarea class="form-control" id="autosaveContent" style="display:none;" rows="1" cols="1"></textarea>
+  <div id="autosavePrompt" style="display:none;"></div>
+
+<div class="commentContainer">
+  <div class="commentSubject">
+  <div class="wiki wikiPage" id="content_view">
+  <ul><li><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Living+connections#David%20Barton">DBHB</a>'s great x6 grandfather?</li><li>Son of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29">John Barton (d.1720)</a> and Isabell?</li><li>Lived and died in <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ivegill">Ivegill</a>, Cumbria.</li><li>Married <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29">Ann (d.1748)</a>.</li><li>Father of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">Bernard Barton of Carlisle (1728-1773)</a>?</li></ul><br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:0:&lt;h1&gt; --><h1 id="toc0"><a name="Mentions"></a><!-- ws:end:WikiTextHeadingRule:0 -->Mentions</h1>
+ <br/>
+&quot;<em>Thy cordial approval of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+Senior+%281789-1852%29">my brother John</a>'s hearty wish to bring us back to the simple habits of the olden time induces me to ask thee if I mentioned in either of my late</em> <em>letters the curious old papers he stumbled on in hunting through the repositories of our late excellent spinster sister? I quite forget whether I did or not; so I will not at a venture repeat all the items. But he found an inventory of the goods and chattels of <strong>our great-grandfather, John Barton of Ive-Gill</strong>, a little hamlet about five or seven miles from Carlisle; by which it seems our progenitor was one of those truly patriarchal personages, a Cumbrian statesman — living on his own little estate, and drawing from it all things needful for himself and his family. I will be bound for it my good brother was more gratified at finding his earliest traceable ancestor such an one than if he had found him in the college of heralds with gules purpura and argent emblazoned as his bearings. The total amount of his stock, independent of house, land, and any money he might have, seems by the valuation to have been £61 6s., and the copy of his admission to his little estate gives the fine as £5, so that I suppose its annual value was then estimated at £2 15s. This was about a century back. Yet this man was the chief means of building <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/High+Head+Chapel">the little chapel</a> in the dale, still standing. (He was a Churchman.) I doubt not he was a fine simple-hearted noble-minded yeoman, in his day, and I am very proud of him. Why did <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">his son, my grandfather, after whom I was named</a>, ever leave that pleasant dale, and go and set up a manufactory in Carlisle; inventing a piece of machinery for which he had a medal from the Royal Society? — so says <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2APennant+1774+%26+1776">Pennant</a>. Methinks he had better have abode in the old grey stone, slate-covered homestead on the banks of that pretty brooklet the Ive! but I bear his name, so I will not quarrel with his memory.</em>&quot; <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2AFitzgerald+1849">*Fitzgerald 1849</a><br/>
+<br/>
+Evidence that this John Barton was the father of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">Bernard Barton of Carlisle (1728-1773)</a> is given <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29#Birth">here</a> and below. However the above quote appear to be in error regarding Bernard's great-grandfather's involvement with the restoration of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/High+Head+Chapel">High Head chapel</a>; the evidence suggests that it was more likely his <u>great-</u>great-grandfather, also <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29">John Barton (d.1720)</a>.<br/>
+<br/>
+A John Barton - possibly this one - appears as both witness and tenant (twice) in the 1736 will of Isabella Miller of Highhead Castle: see <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2AJackson+1892#Notes%20on%20the%20Will%20of%20Isabella%20Miller">*Jackson 1892</a>.<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:2:&lt;h1&gt; --><h1 id="toc1"><a name="Birth"></a><!-- ws:end:WikiTextHeadingRule:2 -->Birth</h1>
+ <br/>
+No parish record has yet been found for John's birth. His <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29#Will">father's will</a> declares that John was not yet 21 on 6 February 1715 (therefore he was not born before 6 February 1694) but he is old enough to sign the probate of the will in 1720, therefore his birth year was likely between 1694 and 1702. His first child (see below) would therefore have been born when he was between 20 and 28, and his last child when he was between 35 and 43; both quite plausible ranges.<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:4:&lt;h1&gt; --><h1 id="toc2"><a name="Children"></a><!-- ws:end:WikiTextHeadingRule:4 -->Children</h1>
+ <br/>
+The will of John's wife <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29">Ann</a> mentions three daughters (Margaret, Jane and Mabel), eldest son Bernard and youngest son John. John and Mabel are younger than 21 in 1748, meaning they were born after 1728.<br/>
+<span style="margin: 0px; padding: 0px;">This matches baptism notices in the High Head chapel baptismal register (and certain <span style="cursor: pointer;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2AMiscellaneous+records#children%20of%20John%20Barton%20d.1747">online parish records</a>: </span>Indexing Project (Batch) Number I03796-7 System Origin England-EASy Source Film Number 1472080) of children born in Ivegill to a father called John, which give the following dates:</span><br/>
+<ol><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Margaret+Barton+%28b.1722%29">Margaret Barton</a>: bpt. <span style="margin: 0px; padding: 0px;">10 Oct 1722</span>, Ivegill</span></li><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Jane+Barton+%28b.1725%29">Jane Barton</a>, bpt. 1 Aug 1725, Ivegill</span></li><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;"><span style="cursor: pointer; margin: 0px; padding: 0px;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">Barnard Barton</a>, </span><span style="margin: 0px; padding: 0px;">bpt. 23 Jun 1728</span>, Ivegill</span></li><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Mabel+Barton+%28b.1732%29">Mabel Barton</a>, <span style="margin: 0px; padding: 0px;">bpt. 10 Sep 1732</span>, Ivegill</span></li><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;">John Barton, <span style="margin: 0px; padding: 0px;">bpt. 18 Feb 1735, Ivegill (presumably died in infancy)</span></span></li><li><span style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0.5em; padding-bottom: 0px; padding-left: 3em; padding-right: 0px; padding-top: 0px;"><a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28b.1737%29">John Barton</a>, <span style="margin: 0px; padding: 0px;">bpt. 8 Mar 1737</span>, Ivegill</span></li></ol><br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:6:&lt;h1&gt; --><h1 id="toc3"><a name="Home"></a><!-- ws:end:WikiTextHeadingRule:6 -->Home</h1>
+ <br/>
+Family tradition has it that John lived at <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ive+Bank%2C+Ivegill">Ive Bank, Ivegill</a>, but this is difficult to establish with certainty. He leaves all his property to his wife <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29">Ann</a>, and the only property she mentions in <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29#Will">her will</a> is at Thomas Close, a few miles to the south. However it is quite possible that John's <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29">father, also John</a>, may have owned Ive Bank (then called Parcy Close) and left it in <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29#Will">his will</a> to his eldest son William (this John's elder brother).<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:8:&lt;h1&gt; --><h1 id="toc4"><a name="Tenant of Highhead Castle?"></a><!-- ws:end:WikiTextHeadingRule:8 -->Tenant of Highhead Castle?</h1>
+ <br/>
+The <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2AJackson+1892#pp130-143">1737 will of Isabella Miller of Highhead Castle</a> mentions two John Bartons as tenants, possibly the same man renting two holdings, paying 13 shillings and 4 pence in annual rent for one and 8 shillings and 6 pence for the other (the same annual rent on the later manorial documents below). A John Barton is also one of the witnesses to that will. All could be this John. The same document also mentions a William Barton as a tenant - possibly <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/William+Barton+%281700-1763%29">William Barton (1700-1763)</a>, and possibly this John's brother?<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:10:&lt;h1&gt; --><h1 id="toc5"><a name="Manorial Documents"></a><!-- ws:end:WikiTextHeadingRule:10 -->Manorial Documents</h1>
+ <br/>
+Two manorial documents, found amongst the <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2AABH+research+notes">*ABH research notes</a>, relate to Ivegill and possibly to Ive Bank. The first is believed to describe the handing over of the property rights from this John to <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">Bernard</a> his son:<br/>
+<br/>
+<!-- ws:start:WikiTextRemoteImageRule:42:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/Richmond%201747%20%28Bernard%20Barton%20Ivegill%20property%29%20.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt; --><img src="https://web.archive.org/web/20141103040335im_/http://dl.dropbox.com/u/2324445/Richmond%201747%20%28Bernard%20Barton%20Ivegill%20property%29%20.jpg" alt="external image Richmond%201747%20%28Bernard%20Barton%20Ivegill%20property%29%20.jpg" title="external image Richmond%201747%20%28Bernard%20Barton%20Ivegill%20property%29%20.jpg"/><!-- ws:end:WikiTextRemoteImageRule:42 --><br/>
+<br/>
+&quot;<em>9 Dec. 1747</em><br/>
+<br/>
+<em>Manor of Highhed.</em><br/>
+<br/>
+<em>On the Ninth day of December in this Year of Our Lord One Thousand, Seven Hundred &amp; Forty Seven Came <strong>Bernard Barton</strong>, upon the Death of <strong>John Barton</strong>, Father of ye sd. Bernard Barton, &amp; took of me Susannah Richmond Lady of the said Mannor, a <a class="wiki_link_ext" href="https://web.archive.org/web/20141103040335/http://en.wikipedia.org/wiki/Messuage" rel="nofollow" target="_blank">Messuage</a> &amp; <a class="wiki_link_ext" href="https://web.archive.org/web/20141103040335/http://en.wikipedia.org/wiki/Tenement_(law)" rel="nofollow" target="_blank">Tenemt</a>. wth. the <a class="wiki_link_ext" href="https://web.archive.org/web/20141103040335/http://en.wikipedia.org/wiki/Appurtenance" rel="nofollow" target="_blank">appurtenances</a> lying at <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ivegill">Ivegill</a> wth.in, &amp; parcell of the said Manor, of the Yearly Arbitrary Customary Rent of Eight Shillings &amp; Sixpence, &amp; other Services, To Hold the said Messuages &amp; Tenemt. wth. the appurtenances unto the said Bernard Barton during the Joint Lives of me the said Lady &amp; the said Bernard Barton at the will of the Lady according to the Custom of the said Manor. Yielding &amp; Paying therefore the sd.</em> <em>Yearly Rent of Eight Shillings &amp; Sixpence at the days &amp; times due &amp; of right accustom'd. And doing, paying, &amp; performing, all other Dues, Duties, Customs &amp; Service, due for &amp; in respect of the Same &amp; the said Bernard Barton having compounded for &amp; paid the Sum of Five Pounds &amp; Nineteen Shillings as the Descent Fine, is thereupon admitted Tenant by me,</em><br/>
+<br/>
+<em>Sus. Richmond.</em><br/>
+<br/>
+<em>Rent</em><br/>
+<em>L S D</em><br/>
+<em>0:8:6</em><br/>
+<br/>
+<em>Admittance</em><br/>
+<em>0:2:6</em><br/>
+<em>Enrolling</em><br/>
+<em>0-1-0</em><br/>
+<br/>
+<em>Fine</em><br/>
+<em>£5-19-0</em><br/>
+<br/>
+<em>A Godspenny</em>&quot;<br/>
+<br/>
+The text of a second document, repeating the process for Bernard's son, <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+the+Elder+%281754-1789%29">John Barton the Elder (1754-1789)</a> is reproduced on <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Bernard+Barton+of+Carlisle+%281728-1773%29">Bernard's page</a>.<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:12:&lt;h1&gt; --><h1 id="toc6"><a name="Burial"></a><!-- ws:end:WikiTextHeadingRule:12 -->Burial</h1>
+ <br/>
+The <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2ADalston+parish+records">*Dalston parish records</a> include this entry (v2 p255):<br/>
+&quot;<em>1747 Novemb 20 John Barton of Hivegill buried</em>&quot;<br/>
+<br/>
+<br/>
+<!-- ws:start:WikiTextHeadingRule:14:&lt;h1&gt; --><h1 id="toc7"><a name="Will"></a><!-- ws:end:WikiTextHeadingRule:14 -->Will</h1>
+ <br/>
+John Barton's will is available from the <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2ACumbria+archive+service">*Cumbria archive service</a>:<br/>
+<br/>
+&quot;<em>In the name of God Amen I John Barton of Hive-gill in the Parish of Dalston and county</em> <em>of Cumberland yeoman being a little weak and infirm of Body but of Sound and perfect mind</em> <em>and memory (Praised be Almighty God) do make and ordain this my last will and</em> <em>Testament in form and manner following that is to say First and principally I commend</em> <em>my soul into the Hands of Almighty God hopeing through the Merits Death and Passion of</em> <em>my Saviour Jesus Christ to have full and free pardon and forgiveness of all my sins and to</em> <em>inherit Everlasting Life. And my Body I commit to the Earth to be decently buried at the discretion</em> <em>of my executrix hearafter named and as touching the disposal of all such temporal estate as it</em> <em>hath pleased Almighty God to bestow upon me I give and and Bequeth unto my well beloved wife -</em> <em>Ann Barton all my goods and Chattels whatsoever that is to say household goods and implements of</em> <em>husbandery and all the rest and Residue of my Personal Estate. I give and Bequeth to the aforesaid</em> <em>Ann Barton my beloved wife whome I make my sole executrix of this my Last will and testament.</em><br/>
+<em>And I Do hereby revoke disanul and make void all former Wills and Testaments by me heretofore -</em> <em>made, in witness whereof I have hereunto set my Hand and Seal the Sixteenth day of</em> <em>november in the year of our Lord one thousand seven hundred forty and seven.</em><br/>
+<em>Signed Sealed published and Declared</em> <em>by the abovesaid John Barton for his</em> <em>Last will and Testament in the presence</em> <em>of us</em><br/>
+<em>Mark Warwick[?]</em><br/>
+<em>Joseph Mouncster[?] his mark x</em><br/>
+<br/>
+<em>[signed and sealed by] John Barton</em>&quot;<br/>
+<br/>
+<!-- ws:start:WikiTextRemoteImageRule:43:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/JohnBarton1747WillSignature.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt; --><img src="https://web.archive.org/web/20141103040335im_/http://dl.dropbox.com/u/2324445/JohnBarton1747WillSignature.jpg" alt="external image JohnBarton1747WillSignature.jpg" title="external image JohnBarton1747WillSignature.jpg"/><!-- ws:end:WikiTextRemoteImageRule:43 --><br/>
+(Extract from a scan provided by the <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2ACumbria+archive+service">*Cumbria archive service</a>)<br/>
+<br/>
+(In my view [DBHB], taking into account his frailty when signing his will, the signature above matches that of the son of <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/John+Barton+%28d.1720%29">John Barton (d.1720)</a> in the probate of the latter's will; extract from a scan provided by the <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2ACumbria+archive+service">*Cumbria archive service</a>):<br/>
+<!-- ws:start:WikiTextRemoteImageRule:44:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/JohnBarton1747Signature.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt; --><img src="https://web.archive.org/web/20141103040335im_/http://dl.dropbox.com/u/2324445/JohnBarton1747Signature.jpg" alt="external image JohnBarton1747Signature.jpg" title="external image JohnBarton1747Signature.jpg"/><!-- ws:end:WikiTextRemoteImageRule:44 --><br/>
+<br/>
+<br/>
+The probate of the will was signed by <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/Ann+%28d.1748%29">Ann (d.1748)</a>, John Nicolson, Abraham Bewley and Jonathan Brisco:<br/>
+<!-- ws:start:WikiTextRemoteImageRule:45:&lt;img src=&quot;http://dl.dropbox.com/u/2324445/AnnBartonSignature.jpg&quot; alt=&quot;&quot; title=&quot;&quot; /&gt; --><img src="https://web.archive.org/web/20141103040335im_/http://dl.dropbox.com/u/2324445/AnnBartonSignature.jpg" alt="external image AnnBartonSignature.jpg" title="external image AnnBartonSignature.jpg"/><!-- ws:end:WikiTextRemoteImageRule:45 --><br/>
+(Extract from a scan provided by the <a class="wiki_link" href="/web/20141103040335/http://bartonhistory.wikispaces.com/%2ACumbria+archive+service">*Cumbria archive service</a>)
+  </div>
+
+<div id="pageEditor" class="editorWrapper editorLayer">
+  <iframe id="target_editor" name="target_editor" src="/web/20141103040335if_/http://bartonhistory.wikispaces.com/s/blank.html" style="width:0px;height:0px;border:0"></iframe>
+    <form action="/web/20141103040335/http://bartonhistory.wikispaces.com/page/edit/John+Barton+of+Ivegill+%28d.1747%29" method="post" class="editorForm" id="editorForm">
+    <input type="hidden" title="goto" name="goto" value=""/>
+    <input type="hidden" title="mode" name="mode" autocomplete="off" value="visual"/>
+    <input type="hidden" title="version" name="version" autocomplete="off" value="318544396"/>
+    <input type="hidden" title="pageComments" name="pageComments" autocomplete="off" value=""/>
+    <input type="hidden" title="saveAndContinue" name="saveAndContinue" value="0"/>
+    <input type="hidden" title="comment" name="comment" value=""/>
+    <input type="hidden" title="commentsDisabled" name="commentsDisabled" autocomplete="off" value=""/>
+    <input type="hidden" title="contentPresent" name="contentPresent" autocomplete="off" value=""/>
+    <input type="hidden" title="editorCleanup" name="editorCleanup" autocomplete="off" value=""/>
+
+    <textarea id="wsMainEditor" title="content" class="noContentHide" name="WikispacesEditorContent" style="width: 100%; position: absolute; top: -50000px; left: -50000px;" autocomplete="off"></textarea>
+
+  <noscript>
+    <h2>Javascript Required</h2>
+    <p>You need to enable Javascript in your browser to edit pages.</p>
+  </noscript>
+
+  </form>
+  
+  
+  <div id="plainTextEditor" style="position:relative;display:none" class="editorLayer">
+    <textarea id="textEditor" class="autogrow"></textarea>
+    <p style="clear:both;" align="right"><a href="https://web.archive.org/web/20141103040335/http://help.wikispaces.com/help.wikitext" class="js-help-link" data-help="help.wikitext">help on how to format text</a></p>
+  </div>
+</div>
+
+
+
+
+  </div>
+  <div class="commentColumn WikispacesStream"><div class="WikispacesContent WikispacesBs3"><div class="commentList"></div></div></div>
+</div>
+
+</div></div><div id="sentinel" style="clear:both"></div>        </div>
+      </main>
+    </div>
+  </div>
+</div>
+
+<footer class="ws-theme-footer" role="contentinfo">
+  <div class="ws-theme-container">
+    <div class="ws-theme-footer-inner">
+      <div class="WikiFooterNav WikiElement">
+<a href="https://web.archive.org/web/20141103040335/http://help.wikispaces.com/" rel="nofollow" class="js-help-trigger">Help</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/about">About</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://blog.wikispaces.com/" target="_new">Blog</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/privacy" rel="nofollow">Privacy</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/terms" rel="nofollow">Terms</a> &middot;
+<a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/help?url=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529" rel="nofollow"><strong>Support</strong></a></div>      <div class="WikiLicense WikiElement">Contributions to http://bartonhistory.wikispaces.com/ are licensed under a <a rel="license" href="https://web.archive.org/web/20141103040335/http://www.creativecommons.org/licenses/by-nc-sa/3.0">Creative Commons Attribution Share-Alike Non-Commercial 3.0 License</a>. <a rel="license" href="https://web.archive.org/web/20141103040335/http://www.creativecommons.org/licenses/by-nc-sa/3.0"><img src="https://web.archive.org/web/20141103040335im_/http://www.wikispaces.com/i/creativecommons/by-nc-sa_3.0_80x15.png" width="85" height="15" alt="Creative Commons Attribution Share-Alike Non-Commercial 3.0 License"/></a><br/>Portions not contributed by visitors are Copyright 2014 Tangient LLC</div>    </div>
+  </div>
+</footer>
+
+<div id="js-help-template" class="hidden">
+  <div class="ws-help">
+    <div class="js-help-controls WikispacesContent WikispacesBs3">
+      <a href="https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
+      <ol class="breadcrumb">
+        <li class="js-special-breadcrumb active">
+          <a href="https://web.archive.org/web/20141103040335/http://help.wikispaces.com/" data-breadcrumb="0">Home</a>
+        </li>
+        <li class="js-ellipsis hidden js-special-breadcrumb">
+          ...
+        </li>
+        <li class="js-spinner hidden js-special-breadcrumb"><i class="fa fa-spinner fa-spin"></i></li>
+      </ol>
+    </div>
+    <div class="ws-help-content wiki">Loading...</div>
+  </div>
+</div>
+</div>
+<script src="https://web.archive.org/web/20141103040335js_/http://www.wikispaces.com/s/nogz/3q4qjv75-editorc.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+ws.namespace('ws.attributes');
+ws.namespace('ws.stream');
+ws.attributes.version = 318544396;
+ws.attributes.showEditor = true;
+ws.attributes.editUrl = "https:\/\/web.archive.org\/web\/20141103040335\/http:\/\/bartonhistory.wikispaces.com\/page\/edit\/John+Barton+of+Ivegill+%28d.1747%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529";
+ws.attributes.userCanEdit = false;
+ws.stream.userCanPostMessage = false;
+ws.stream.hideTimeline = true;
+ws.stream.shareSource = "https:\/\/web.archive.org\/web\/20141103040335\/http:\/\/bartonhistory.wikispaces.com\/page\/shares\/John+Barton+of+Ivegill+%28d.1747%29";
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20141103040335/https://ssl' : 'https://web.archive.org/web/20141103040335/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+jQuery(document).ready(function() {
+  ws.common.addJsonNotices({"warning":[],"error":[],"info":[],"success":[]});
+});
+
+jQuery(document).ready(function($) {
+  
+  function tipPlacement() {
+    return this.$element.closest('.ws-menu-bar .btn-group').is('.open') ? 'top' : 'bottom';
+  }
+
+  
+
+  $('.ws-menu-bar').each(function() {
+    var $menuBar = $(this);
+    var $tagDropdown = $menuBar.find('.ws-tag-dropdown-menu');
+    $menuBar.find('.tipme').tooltip({placement: tipPlacement, container: '.ws-menu-bar'});
+
+    
+    $menuBar.find('.ws-btn-more').click(ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .btn-group').is('.open')) {
+        ws.common.hideMorePageBar();
+      } else {
+        ws.common.showMorePageBar();
+      }
+    }));
+
+    $menuBar.on('click', '.ws-tag-dropdown-toggle', ws.common.makeLinkClickFunction(function(e) {
+      if ($(this).closest('.ws-menu-bar .dropdown').is('.open')) {
+        ws.common.hideTagDropdown();
+      } else {
+        ws.common.showTagDropdown();
+      }
+    }));
+
+    $(document.body).click(function(e) {
+      var $target = $(e.target);
+      if (!$target.closest('.ws-more-menu').closest('.ws-menu-bar').is($menuBar)
+          || $target.closest('a').is('.WikispacesDialogLink')) {
+        ws.common.hideMorePageBar();
+      }
+      if ($tagDropdown.length && !$target.closest('.ws-tag-dropdown-menu').is($tagDropdown)) {
+        ws.common.hideTagDropdown();
+      }
+    });
+    
+  });
+});
+
+
+jQuery(document).ready(function($) {
+  $('.ws-more-menu').on('click', 'a', function(e) {
+    if ($(this).is('.disabled')) {
+      e.preventDefault();
+    }
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.canEdit = false;
+  var editUrl = 'https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/page/edit/John+Barton+of+Ivegill+%28d.1747%29?goto=http%3A%2F%2Fbartonhistory.wikispaces.com%2FJohn%2BBarton%2Bof%2BIvegill%2B%2528d.1747%2529';
+
+  jQuery('#js-edit-from-template').change(function() {
+    window.location = ws.common.addUriParams(editUrl, [['template', jQuery(this).val()]]);
+  });
+});
+
+
+jQuery(document).ready(function() {
+  ws.editor.loadEditorLibs('https://web.archive.org/web/20141103040335/http://www.wikispaces.com/site/editorlibs/en/j562054q.js');
+});
+
+
+ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
+  ws.editor.canEdit = true;
+
+  var coreOptions = {
+    'content_css': ['https://web.archive.org/web/20141103040335/http://www.wikispaces.com/stylesheet/editori/217420326D.css']
+  };
+
+  // The stylesheet is passed in as a string, turn it into an array
+  // Add bootstrap styles to the editor, if we are in a theme that has full screen bootstrap
+  if (jQuery('body').is('.WikispacesBs3')) {
+    coreOptions.content_css.push('https://web.archive.org/web/20141103040335/http://www.wikispaces.com//s/internal-bootstrap-body.css');
+  }
+
+  var mainOptions = {
+    'wssave_cancel_url': '/John+Barton+of+Ivegill+%28d.1747%29',
+    'wsimage_upload_url': 'https://web.archive.org/web/20141103040335/http://bartonhistory.wikispaces.com/file/multiupload',
+    'wsimage_max_file_size_mb': '20',
+    'wsimage_page_view_group': ''
+  };
+
+  ws.editor.loadEditor(jQuery.extend(coreOptions, moreCoreOptions), jQuery.extend(mainOptions, moreMainOptions));
+};
+
+  var wikispaces_page_version = '318544396';
+
+  jQuery(document).ready(function() {
+    ws.editor.enableButtons();
+  });
+
+
+
+--></script><!-- w16 571 wki:118:175(3) tot:571:571(1) mog:160:160(1) dql:39:52(7) mem:5:43(35) -->
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 04:03:35 Nov 03, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:32:22 Apr 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.212
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.138
+  esindex: 0.013
+  cdx.remote: 10.891
+  LoadShardBlock: 100.549 (3)
+  PetaboxLoader3.datanode: 106.244 (4)
+  PetaboxLoader3.resolve: 2024.221 (3)
+  load_resource: 2066.981
+-->
