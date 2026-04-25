@@ -90,6 +90,9 @@ jobs:
           print("Done.")
           PYEOF
 
+      - name: Rewrite links to relative paths
+        run: python3 rewrite_links.py websites/bartonhistory.wikispaces.com
+
       - name: Add .nojekyll (prevents Jekyll mangling + and special chars in filenames)
         run: touch websites/bartonhistory.wikispaces.com/.nojekyll
 
