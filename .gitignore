@@ -1,0 +1,9 @@
+# State files left by wayback-machine-downloader
+websites/**/.cdx.json
+websites/**/.downloaded.txt
+
+# Logs
+*.log
+
+# Download-tool local clone (kept in /tmp, not the repo)
+/tmp/wayback-machine-downloader/
