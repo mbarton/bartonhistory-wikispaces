@@ -7,3 +7,8 @@ websites/**/.downloaded.txt
 
 # Download-tool local clone (kept in /tmp, not the repo)
 /tmp/wayback-machine-downloader/
+
+# The downloader saves %2A* dirs; rewrite_links.py renames them to *
+# Ignore the %2A originals so they're never committed
+websites/**/%2A*/
+websites/**/%2A*
